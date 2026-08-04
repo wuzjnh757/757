@@ -29,7 +29,7 @@ jobs:
           import requests, time, json
 
           urls = [
-              "http://api.hclyz.com/mf/json.txt",  # 主接口
+              "http://api.hclyz.com/mf/yuncaidan.txt",  # 主接口
               "https://cdn.jsdelivr.net/gh/yourname/yourrepo@main/live_sources.json"
           ]
 
