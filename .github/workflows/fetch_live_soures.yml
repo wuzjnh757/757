@@ -26,23 +26,25 @@ jobs:
       - name: Fetch live sources
         run: |
           python << 'EOF'
-          import requests, time
+          import requests, time, json
 
-          # 在这里加入主接口和 CDN 备用接口
           urls = [
-              "http://api.hclyz.com/mf/json.txt",          # 主接口
-              "https://cdn.jsdelivr.net/gh/json.txt"       # CDN 地址（你需要自己搭建或替换）
+              "http://api.hclyz.com/mf/json.txt",  # 主接口
+              "https://cdn.jsdelivr.net/gh/yourname/yourrepo@main/live_sources.json"
           ]
 
           save_path = "live_sources.json"
-          content = ""
+          content = {}
 
           for u in urls:
               try:
                   response = requests.get(u, timeout=10)
                   response.encoding = 'utf-8'
                   if response.status_code == 200:
-                      content = response.text
+                      try:
+                          content = response.json()
+                      except Exception:
+                          content = {"status": "解析失败", "raw": response.text}
                       print(f"成功抓取：{u}")
                       break
                   else:
@@ -52,10 +54,10 @@ jobs:
                   time.sleep(5)
 
           if not content:
-              content = "所有接口均失败\n"
+              content = {"status": "所有接口均失败", "data": []}
 
           with open(save_path, "w", encoding="utf-8") as f:
-              f.write(content)
+              json.dump(content, f, ensure_ascii=False, indent=2)
 
           print(f"[{time.strftime('%Y-%m-%d %H:%M:%S')}] 已保存到 {save_path}")
           EOF
@@ -64,6 +66,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add live_sources.txt
+          git add live_sources.json
           git commit -m "自动更新直播源 $(date '+%Y-%m-%d %H:%M:%S')"
           git push
