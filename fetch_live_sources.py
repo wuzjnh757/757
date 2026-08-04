@@ -3,8 +3,8 @@ import requests, time
 
 # 在这里加入主接口和 CDN 备用接口
 urls = [
-    "http://api.hclyz.com/mf/json.txt",          # 主接口
-    "https://cdn.jsdelivr.net/gh/json.txt"       # CDN 地址（你需要自己搭建或替换）
+    "http://api.hclyz.com/mf/yuncaidan.txt",          # 主接口
+    "https://cdn.jsdelivr.net/gh/yuncaidan.txt"       # CDN 地址（你需要自己搭建或替换）
 ]
 
 save_path = "live_sources.txt"
