@@ -115,3 +115,1177 @@ MiamiTVMéxico,p3p://fccs.ddns.net:19906/64ef00bf000eb051d6cfed1d17c05ca9
 极限电影,p3p://fccs.ddns.net:19906/6109e9bb0005fd87fd9ce5ea2c1f18d3
 极限电影台,http://feilong123.vip/409990236/mpd/smtxx.php?channel=jstar
 极限电影台,http://rihou.cc:555/tv/hktv/sstv8633ht
+
+YY⚛️极速1,#genre#
+民視台灣,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2f4b6fcd25e62a7e&token=123456
+民視第一,http://jy.bhzz.today:2026/YY1/WMHS.php?id=cee0b6f8b493ff4f&token=123456
+台視,http://jy.bhzz.today:2026/YY1/WMHS.php?id=d39a905cfea6dc21&token=123456
+台視綜合,http://jy.bhzz.today:2026/YY1/WMHS.php?id=dabfbdbee1a0531c&token=123456
+中天綜合,http://jy.bhzz.today:2026/YY1/WMHS.php?id=d0d2ddd39deb2301&token=123456
+公視,http://jy.bhzz.today:2026/YY1/WMHS.php?id=bebf62b8f36e15e5&token=123456
+八大綜合,http://jy.bhzz.today:2026/YY1/WMHS.php?id=ae1cdc3692d1462b&token=123456
+八大第一,http://jy.bhzz.today:2026/YY1/WMHS.php?id=79c7f8374ac31ebe&token=123456
+東森綜合,http://jy.bhzz.today:2026/YY1/WMHS.php?id=1a5ef09d70c368da&token=123456
+東森電影,http://jy.bhzz.today:2026/YY1/WMHS.php?id=43d802c11cd88f66&token=123456
+緯來電影,http://jy.bhzz.today:2026/YY1/WMHS.php?id=3907d5b335874287&token=123456
+三立台灣,http://jy.bhzz.today:2026/YY1/WMHS.php?id=d1ecb32d2ac97631&token=123456
+三立都會,http://jy.bhzz.today:2026/YY1/WMHS.php?id=91d26119dcb5aa1f&token=123456
+龍華偶像,http://jy.bhzz.today:2026/YY1/WMHS.php?id=aaa7ff9ae1831810&token=123456
+龍華電影,http://jy.bhzz.today:2026/YY1/WMHS.php?id=3169ea33994439bc&token=123456
+龍華經典,http://jy.bhzz.today:2026/YY1/WMHS.php?id=719d2f26ba6da0bb&token=123456
+好萊塢電影,http://jy.bhzz.today:2026/YY1/WMHS.php?id=5b21536759ef8ccd&token=123456
+TVBS備,http://jy.bhzz.today:2026/YY1/WMHS.php?id=bc40d35278a043a7&token=123456
+中天新聞備,http://jy.bhzz.today:2026/YY1/WMHS.php?id=c26cf6e354b84d6a&token=123456
+東森新聞備,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2bc15482f8cc6e7a&token=123456
+華視新聞,http://jy.bhzz.today:2026/YY1/WMHS.php?id=13b6b53db7dc991b&token=123456
+中視新聞,http://jy.bhzz.today:2026/YY1/WMHS.php?id=5edb11f2d4550895&token=123456
+民視新聞,http://jy.bhzz.today:2026/YY1/WMHS.php?id=942103a5423a2d6e&token=123456
+TVBS新聞,http://jy.bhzz.today:2026/YY1/WMHS.php?id=06788d70d73d7d03&token=123456
+三立新聞,http://jy.bhzz.today:2026/YY1/WMHS.php?id=a70c21cc5c2e3448&token=123456
+年代新聞,http://jy.bhzz.today:2026/YY1/WMHS.php?id=d0d702900f230e64&token=123456
+壹新聞,http://jy.bhzz.today:2026/YY1/WMHS.php?id=b603e6fd37bce585&token=123456
+非凡新聞,http://jy.bhzz.today:2026/YY1/WMHS.php?id=edc06c9faf4129dd&token=123456
+鏡新聞,http://jy.bhzz.today:2026/YY1/WMHS.php?id=9676cba4589ea8d4&token=123456
+環宇台灣,http://jy.bhzz.today:2026/YY1/WMHS.php?id=b294defe31a1d0c0&token=123456
+緯來體育,http://jy.bhzz.today:2026/YY1/WMHS.php?id=269103c10592f500&token=123456
+CCTV5,http://jy.bhzz.today:2026/YY1/WMHS.php?id=3a59f7a4b8b28dca&token=123456
+NBATV,http://jy.bhzz.today:2026/YY1/WMHS.php?id=90798d95849ef4b3&token=123456
+广东体育,http://jy.bhzz.today:2026/YY1/WMHS.php?id=6584f926271fd8e9&token=123456
+ELTA體育1,http://jy.bhzz.today:2026/YY1/WMHS.php?id=4366f7663d89f98e&token=123456
+ELTA體育2,http://jy.bhzz.today:2026/YY1/WMHS.php?id=3fd5f2ba884ab267&token=123456
+TSNSport1,http://jy.bhzz.today:2026/YY1/WMHS.php?id=b1f49f4d1d260def&token=123456
+TSNSport2,http://jy.bhzz.today:2026/YY1/WMHS.php?id=9003a6ebdd453a77&token=123456
+TSNSport3,http://jy.bhzz.today:2026/YY1/WMHS.php?id=fee3d1ce06404fdf&token=123456
+TSNSport4,http://jy.bhzz.today:2026/YY1/WMHS.php?id=390ae9cfa80baa99&token=123456
+YY⚛️极速,#genre#
+鳳凰中文,http://jy.bhzz.today:2026/YY1/WMHS.php?id=4df0f8f936be6060&token=123456
+鳳凰資訊,http://jy.bhzz.today:2026/YY1/WMHS.php?id=c407c7a2bfe64778&token=123456
+鳳凰香港,http://jy.bhzz.today:2026/YY1/WMHS.php?id=1beba7a3e1c7659c&token=123456
+翡翠台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=ca9b19519b657d52&token=123456
+TVBPlus,http://jy.bhzz.today:2026/YY1/WMHS.php?id=f229fd28ae5e2c7a&token=123456
+無綫新聞,http://jy.bhzz.today:2026/YY1/WMHS.php?id=f6dc53f03c29e355&token=123456
+明珠台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=9776f5ec6a90c7ee&token=123456
+ViUTV,http://jy.bhzz.today:2026/YY1/WMHS.php?id=c023187e5a2cac2d&token=123456
+ViUTVSix,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2173f59825f0b4e1&token=123456
+HOYTV,http://jy.bhzz.today:2026/YY1/WMHS.php?id=24d91ffea076b471&token=123456
+HOY資訊台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=7eb2007c0c03a6a9&token=123456
+HOY財經台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=ca52eb539275163f&token=123456
+18台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=f5c8306928ac6377&token=123456
+Now新聞台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=a5eb6622bb2db817&token=123456
+Now財經台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=fdf5f9f5f2199ec7&token=123456
+TVB星河,http://jy.bhzz.today:2026/YY1/WMHS.php?id=3ed4a38b9c1108e4&token=123456
+功夫台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=0b2d4df076d84fb9&token=123456
+天映經典,http://jy.bhzz.today:2026/YY1/WMHS.php?id=d5803f7d6ba368ed&token=123456
+美亚电影台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=a4c5b4ec410ba13f&token=123456
+POPC,http://jy.bhzz.today:2026/YY1/WMHS.php?id=759d44d74145d18c&token=123456
+POPC,http://jy.bhzz.today:2026/YY1/WMHS.php?id=759d44d74145d18c&token=123456
+爆谷台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=8497a79a798081d8&token=123456
+爆谷台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=8497a79a798081d8&token=123456
+爆谷星影台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=adfcb89bc7c3fd99&token=123456
+爆谷星影台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=adfcb89bc7c3fd99&token=123456
+中國電影,http://jy.bhzz.today:2026/YY1/WMHS.php?id=ebe7e8b9a55b9e35&token=123456
+中視,http://jy.bhzz.today:2026/YY1/WMHS.php?id=d802e34857bc3d70&token=123456
+華視,http://jy.bhzz.today:2026/YY1/WMHS.php?id=d392344d671b30ab&token=123456
+民視,http://jy.bhzz.today:2026/YY1/WMHS.php?id=9821d7dcc39c147e&token=123456
+民視台灣,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2f4b6fcd25e62a7e&token=123456
+民視第一,http://jy.bhzz.today:2026/YY1/WMHS.php?id=cee0b6f8b493ff4f&token=123456
+台視,http://jy.bhzz.today:2026/YY1/WMHS.php?id=d39a905cfea6dc21&token=123456
+台視綜合,http://jy.bhzz.today:2026/YY1/WMHS.php?id=dabfbdbee1a0531c&token=123456
+公視,http://jy.bhzz.today:2026/YY1/WMHS.php?id=bebf62b8f36e15e5&token=123456
+中天綜合,http://jy.bhzz.today:2026/YY1/WMHS.php?id=d0d2ddd39deb2301&token=123456
+八大綜合,http://jy.bhzz.today:2026/YY1/WMHS.php?id=ae1cdc3692d1462b&token=123456
+八大第一,http://jy.bhzz.today:2026/YY1/WMHS.php?id=79c7f8374ac31ebe&token=123456
+東森綜合,http://jy.bhzz.today:2026/YY1/WMHS.php?id=1a5ef09d70c368da&token=123456
+東森電影,http://jy.bhzz.today:2026/YY1/WMHS.php?id=43d802c11cd88f66&token=123456
+緯來電影,http://jy.bhzz.today:2026/YY1/WMHS.php?id=3907d5b335874287&token=123456
+緯來體育,http://jy.bhzz.today:2026/YY1/WMHS.php?id=269103c10592f500&token=123456
+三立都會,http://jy.bhzz.today:2026/YY1/WMHS.php?id=91d26119dcb5aa1f&token=123456
+三立台灣,http://jy.bhzz.today:2026/YY1/WMHS.php?id=d1ecb32d2ac97631&token=123456
+龍華偶像,http://jy.bhzz.today:2026/YY1/WMHS.php?id=aaa7ff9ae1831810&token=123456
+龍華電影,http://jy.bhzz.today:2026/YY1/WMHS.php?id=3169ea33994439bc&token=123456
+龍華經典,http://jy.bhzz.today:2026/YY1/WMHS.php?id=719d2f26ba6da0bb&token=123456
+龍翔時代,http://jy.bhzz.today:2026/YY1/WMHS.php?id=a0866c01e9f62086&token=123456
+好萊塢電影,http://jy.bhzz.today:2026/YY1/WMHS.php?id=5b21536759ef8ccd&token=123456
+TvbS,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2ee2136fcdc02758&token=123456
+中天新聞,http://jy.bhzz.today:2026/YY1/WMHS.php?id=895295ca4e995d3e&token=123456
+東森新聞,http://jy.bhzz.today:2026/YY1/WMHS.php?id=d0a3571185b48428&token=123456
+環宇新聞,http://jy.bhzz.today:2026/YY1/WMHS.php?id=34d5c217a502d4ed&token=123456
+華視新聞,http://jy.bhzz.today:2026/YY1/WMHS.php?id=13b6b53db7dc991b&token=123456
+中視新聞,http://jy.bhzz.today:2026/YY1/WMHS.php?id=5edb11f2d4550895&token=123456
+台視新聞,http://jy.bhzz.today:2026/YY1/WMHS.php?id=65c8f87f4e423fdd&token=123456
+民視新聞,http://jy.bhzz.today:2026/YY1/WMHS.php?id=942103a5423a2d6e&token=123456
+TVBS新聞,http://jy.bhzz.today:2026/YY1/WMHS.php?id=06788d70d73d7d03&token=123456
+三立新聞,http://jy.bhzz.today:2026/YY1/WMHS.php?id=a70c21cc5c2e3448&token=123456
+年代新聞,http://jy.bhzz.today:2026/YY1/WMHS.php?id=d0d702900f230e64&token=123456
+壹新聞,http://jy.bhzz.today:2026/YY1/WMHS.php?id=b603e6fd37bce585&token=123456
+非凡新聞,http://jy.bhzz.today:2026/YY1/WMHS.php?id=edc06c9faf4129dd&token=123456
+鏡新聞,http://jy.bhzz.today:2026/YY1/WMHS.php?id=9676cba4589ea8d4&token=123456
+環宇台灣,http://jy.bhzz.today:2026/YY1/WMHS.php?id=b294defe31a1d0c0&token=123456
+NBATV,http://jy.bhzz.today:2026/YY1/WMHS.php?id=90798d95849ef4b3&token=123456
+YY⚛️明星,#genre#
+电影_英叔,http://jy.bhzz.today:2026/YY1/WMHS.php?id=ca4638ce05a07400&token=123456
+电影_星爷,http://jy.bhzz.today:2026/YY1/WMHS.php?id=93b8cf5801286d38&token=123456
+电影_星爷粤语,http://jy.bhzz.today:2026/YY1/WMHS.php?id=8cc4efe9b65dda86&token=123456
+电影_发哥,http://jy.bhzz.today:2026/YY1/WMHS.php?id=28769a2a8bdb7614&token=123456
+电影_五福星,http://jy.bhzz.today:2026/YY1/WMHS.php?id=865743b2b57329ee&token=123456
+电影_周星星,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2921d1ffe3c964bc&token=123456
+电影_李连杰,http://jy.bhzz.today:2026/YY1/WMHS.php?id=1053cf26b3a7b090&token=123456
+电影_洪金宝,http://jy.bhzz.today:2026/YY1/WMHS.php?id=9cd7c45986079069&token=123456
+电影_梁家辉,http://jy.bhzz.today:2026/YY1/WMHS.php?id=4e0522d62f194ec7&token=123456
+电影_许冠英,http://jy.bhzz.today:2026/YY1/WMHS.php?id=adf3cf16f134f662&token=123456
+电影_刘德华,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2a105c0fcdee5b99&token=123456
+电影_斯坦森,http://jy.bhzz.today:2026/YY1/WMHS.php?id=76f8d1d14305b3bd&token=123456
+电影_成龙,http://jy.bhzz.today:2026/YY1/WMHS.php?id=a36e945ef2d6be7d&token=123456
+电影_王晶,http://jy.bhzz.today:2026/YY1/WMHS.php?id=0a5b3395e9928296&token=123456
+电影_黄渤,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2579bac349adc44c&token=123456
+电影_强森,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2344964016f03e91&token=123456
+电影_漫威,http://jy.bhzz.today:2026/YY1/WMHS.php?id=78b6328c9c67cb46&token=123456
+电影_宇宙,http://jy.bhzz.today:2026/YY1/WMHS.php?id=663aa18d4986a560&token=123456
+电影_怪兽,http://jy.bhzz.today:2026/YY1/WMHS.php?id=56e266beb3d5a5d9&token=123456
+电影_武侠,http://jy.bhzz.today:2026/YY1/WMHS.php?id=b3335f5a49b28b48&token=123456
+电影_警匪,http://jy.bhzz.today:2026/YY1/WMHS.php?id=a07c606d70ebe2c2&token=123456
+电影_罪犯,http://jy.bhzz.today:2026/YY1/WMHS.php?id=39401f4afeafc135&token=123456
+电影_枪战,http://jy.bhzz.today:2026/YY1/WMHS.php?id=0b2f1089f473bc82&token=123456
+电影_海盗,http://jy.bhzz.today:2026/YY1/WMHS.php?id=995037ad4c1b23f9&token=123456
+电影_赛车,http://jy.bhzz.today:2026/YY1/WMHS.php?id=1eb0c167554d9c0f&token=123456
+电影_推荐,http://jy.bhzz.today:2026/YY1/WMHS.php?id=44ecedb7999a120e&token=123456
+电影_救援,http://jy.bhzz.today:2026/YY1/WMHS.php?id=3b11530995d4d282&token=123456
+电影_热血,http://jy.bhzz.today:2026/YY1/WMHS.php?id=7fdb199d1b728a48&token=123456
+电影_盗墓,http://jy.bhzz.today:2026/YY1/WMHS.php?id=99de965e03da5871&token=123456
+电影_贺岁,http://jy.bhzz.today:2026/YY1/WMHS.php?id=8c19c662b0576931&token=123456
+电影_玄幻,http://jy.bhzz.today:2026/YY1/WMHS.php?id=789f2f4d37a99e7e&token=123456
+电影_谍战,http://jy.bhzz.today:2026/YY1/WMHS.php?id=88e3d2c0b73afb8c&token=123456
+电影_战争,http://jy.bhzz.today:2026/YY1/WMHS.php?id=8ffb289db4414ffb&token=123456
+电影_喜剧,http://jy.bhzz.today:2026/YY1/WMHS.php?id=4c769029348ff86f&token=123456
+电影_港片,http://jy.bhzz.today:2026/YY1/WMHS.php?id=76fb2cc6870793cd&token=123456
+电影_国产,http://jy.bhzz.today:2026/YY1/WMHS.php?id=a90ade40d815ed22&token=123456
+电影_小鬼头,http://jy.bhzz.today:2026/YY1/WMHS.php?id=a62ed7857455ecbe&token=123456
+电影_八点档,http://jy.bhzz.today:2026/YY1/WMHS.php?id=60c765edaa896a60&token=123456
+电影_蜘蛛侠,http://jy.bhzz.today:2026/YY1/WMHS.php?id=8f0e0d3fd5d05c71&token=123456
+电影_贺岁片,http://jy.bhzz.today:2026/YY1/WMHS.php?id=73c3d85e8fc0980d&token=123456
+电影_功夫片,http://jy.bhzz.today:2026/YY1/WMHS.php?id=6546de79d12ae5a7&token=123456
+电影_黑帮片,http://jy.bhzz.today:2026/YY1/WMHS.php?id=ff38b24b3972f73b&token=123456
+电影_丧尸片,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2fc7fbf67948dd81&token=123456
+电影_灾难片,http://jy.bhzz.today:2026/YY1/WMHS.php?id=1be8b65cfbfa82a4&token=123456
+电影_谍战片,http://jy.bhzz.today:2026/YY1/WMHS.php?id=33088b504a2a6199&token=123456
+电影_战争片,http://jy.bhzz.today:2026/YY1/WMHS.php?id=43f5e1347caee295&token=123456
+电影_犯罪片,http://jy.bhzz.today:2026/YY1/WMHS.php?id=a3417252c93968be&token=123456
+电影_古装片,http://jy.bhzz.today:2026/YY1/WMHS.php?id=1471a8aacd4541a1&token=123456
+电影_高分动作,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2edfd4becbfb8e07&token=123456
+电影_动作电影,http://jy.bhzz.today:2026/YY1/WMHS.php?id=19113870326d1cdb&token=123456
+电影_搞笑喜剧,http://jy.bhzz.today:2026/YY1/WMHS.php?id=d590edbced0f56e8&token=123456
+电影_喜剧专场,http://jy.bhzz.today:2026/YY1/WMHS.php?id=25b47d2dd1f26c03&token=123456
+电影_欢笑影院,http://jy.bhzz.today:2026/YY1/WMHS.php?id=8115e1faada6be4e&token=123456
+电影_不挤影院,http://jy.bhzz.today:2026/YY1/WMHS.php?id=32a4c6c4e2a3b492&token=123456
+电影_国产悬疑,http://jy.bhzz.today:2026/YY1/WMHS.php?id=6c3cdb9faa05db74&token=123456
+电影_快意江湖,http://jy.bhzz.today:2026/YY1/WMHS.php?id=05458a6dc1c0991a&token=123456
+电影_黑帮斗争,http://jy.bhzz.today:2026/YY1/WMHS.php?id=315d5576457c6a5f&token=123456
+电影_古墓系列,http://jy.bhzz.today:2026/YY1/WMHS.php?id=fe0aa083a0972814&token=123456
+电影_嫣然影厅,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2fd1abe2ad7a3d8f&token=123456
+电影_女神系列,http://jy.bhzz.today:2026/YY1/WMHS.php?id=297b345fb77e77a7&token=123456
+电影_经典女神,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2aa286ee0c6a4041&token=123456
+电影_许氏三杰,http://jy.bhzz.today:2026/YY1/WMHS.php?id=4e9a222e80c064c6&token=123456
+电影_经典港片,http://jy.bhzz.today:2026/YY1/WMHS.php?id=1fd72777703c68bc&token=123456
+电影_镖行天下,http://jy.bhzz.today:2026/YY1/WMHS.php?id=b710428056e77a13&token=123456
+电影_高能反转,http://jy.bhzz.today:2026/YY1/WMHS.php?id=601960f2abe34bac&token=123456
+电影_喜乐影院,http://jy.bhzz.today:2026/YY1/WMHS.php?id=6c7bc69aa201d280&token=123456
+电影_蘑菇影厅,http://jy.bhzz.today:2026/YY1/WMHS.php?id=d565ae385cb23a83&token=123456
+电影_搞笑恐怖,http://jy.bhzz.today:2026/YY1/WMHS.php?id=6719f3fd00629120&token=123456
+电影_死神来了,http://jy.bhzz.today:2026/YY1/WMHS.php?id=e175ce16e03cba5b&token=123456
+电影_变形金刚,http://jy.bhzz.today:2026/YY1/WMHS.php?id=25a50c5dd697bd6d&token=123456
+电影_怪兽系列,http://jy.bhzz.today:2026/YY1/WMHS.php?id=52316001b75d9d1d&token=123456
+经典港片,http://jy.bhzz.today:2026/YY1/WMHS.php?id=5f19fca8a303d52b&token=123456
+经典港片,http://jy.bhzz.today:2026/YY1/WMHS.php?id=5f19fca8a303d52b&token=123456
+剧集_国产剧,http://jy.bhzz.today:2026/YY1/WMHS.php?id=0e7e134ea43d1fca&token=123456
+剧集_庆余年+,http://jy.bhzz.today:2026/YY1/WMHS.php?id=b9f032b6a4ebc1eb&token=123456
+YY⚛️央视,#genre#
+CCTV-331综合,http://3.bhzz.today:61231/777/zyzb.php?cid=AVIXTgYMVw==&token=5804bda3ab472006bfedbe8865a99956
+CCTV1综合,http://3.bhzz.today:61231/777/zyzb.php?cid=AVIXTgYMVw==&token=5804bda3ab472006bfedbe8865a99956
+CCTV2财经,http://3.bhzz.today:61231/777/zyzb.php?cid=AVIXTgUMVw==&token=5804bda3ab472006bfedbe8865a99956
+CCTV3综艺,http://3.bhzz.today:61231/777/zyzb.php?cid=AVIXTgQMVw==&token=5804bda3ab472006bfedbe8865a99956
+CCTV4中文国际,http://3.bhzz.today:61231/777/zyzb.php?cid=AVIXTgMMVw==&token=5804bda3ab472006bfedbe8865a99956
+CCTV5体育,http://3.bhzz.today:61231/777/zyzb.php?cid=AVIXTgIMVw==&token=5804bda3ab472006bfedbe8865a99956
+CCTV5体育,http://3.bhzz.today:61231/777/zyzb.php?cid=AVIXTgI=&token=5804bda3ab472006bfedbe8865a99956
+CCTV5+体育赛事,http://3.bhzz.today:61231/777/zyzb.php?cid=AVIXTgIUWwE=&token=5804bda3ab472006bfedbe8865a99956
+CCTV5+体育赛事,http://3.bhzz.today:61231/777/zyzb.php?cid=AVIXTgIU&token=5804bda3ab472006bfedbe8865a99956
+CCTV6电影,http://3.bhzz.today:61231/777/zyzb.php?cid=AVIXTgEMVw==&token=5804bda3ab472006bfedbe8865a99956
+CCTV7国防军事,http://3.bhzz.today:61231/777/zyzb.php?cid=AVIXTgAMVw==&token=5804bda3ab472006bfedbe8865a99956
+CCTV8电视剧,http://3.bhzz.today:61231/777/zyzb.php?cid=AVIXTg8MVw==&token=5804bda3ab472006bfedbe8865a99956
+CCTV9纪录,http://3.bhzz.today:61231/777/zyzb.php?cid=AVIXTg4MVw==&token=5804bda3ab472006bfedbe8865a99956
+CCTV10科教,http://3.bhzz.today:61231/777/zyzb.php?cid=AVIXTgZUWwE=&token=5804bda3ab472006bfedbe8865a99956
+CCTV11戏曲,http://3.bhzz.today:61231/777/zyzb.php?cid=AVIXTgZVWwE=&token=5804bda3ab472006bfedbe8865a99956
+CCTV11戏曲,http://3.bhzz.today:61231/777/zyzb.php?cid=AVIXTgZV&token=5804bda3ab472006bfedbe8865a99956
+CCTV12社会与法,http://3.bhzz.today:61231/777/zyzb.php?cid=AVIXTgZWWwE=&token=5804bda3ab472006bfedbe8865a99956
+CCTV13新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=AVIXTgZXWwE=&token=5804bda3ab472006bfedbe8865a99956
+CCTV14少儿,http://3.bhzz.today:61231/777/zyzb.php?cid=AVIXTgZQWwE=&token=5804bda3ab472006bfedbe8865a99956
+CCTV15音乐,http://3.bhzz.today:61231/777/zyzb.php?cid=AVIXTgZRWwE=&token=5804bda3ab472006bfedbe8865a99956
+CCTV16奥林匹克,http://3.bhzz.today:61231/777/zyzb.php?cid=AVIXTgZSWwE=&token=5804bda3ab472006bfedbe8865a99956
+CCTV17农业农村,http://3.bhzz.today:61231/777/zyzb.php?cid=AVIXTgZTWwE=&token=5804bda3ab472006bfedbe8865a99956
+CETV1教育一台,http://3.bhzz.today:61231/777/zyzb.php?cid=AVQXTgY=&token=5804bda3ab472006bfedbe8865a99956
+CHC高清电影,http://3.bhzz.today:61231/777/zyzb.php?cid=AVkAUFMJXBMNUQ==&token=5804bda3ab472006bfedbe8865a99956
+CHC动作电影,http://3.bhzz.today:61231/777/zyzb.php?cid=AVkAWVQQWgoK&token=5804bda3ab472006bfedbe8865a99956
+CHC家庭电影,http://3.bhzz.today:61231/777/zyzb.php?cid=AVkAXlYJWgkd&token=5804bda3ab472006bfedbe8865a99956
+五星体育,http://3.bhzz.today:61231/777/zyzb.php?cid=BFgVXUQQUhcXRFpBFkU=&token=5804bda3ab472006bfedbe8865a99956
+YY⚛️卫视,#genre#
+湖南卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=CkQNT0QMVw==&token=5804bda3ab472006bfedbe8865a99956
+湖南卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=CkQNT0Q=&token=5804bda3ab472006bfedbe8865a99956
+浙江卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=GFsUS18A&token=5804bda3ab472006bfedbe8865a99956
+浙江卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=GFsUSw==&token=5804bda3ab472006bfedbe8865a99956
+江苏卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=CEIUS18A&token=5804bda3ab472006bfedbe8865a99956
+江苏卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=CEIUSw==&token=5804bda3ab472006bfedbe8865a99956
+深圳卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=EUsUS18A&token=5804bda3ab472006bfedbe8865a99956
+深圳卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=EUsUSw==&token=5804bda3ab472006bfedbe8865a99956
+湖北卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=CkQBT0QMVw==&token=5804bda3ab472006bfedbe8865a99956
+湖北卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=CkQBT0Q=&token=5804bda3ab472006bfedbe8865a99956
+广西卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=BUkUS18A&token=5804bda3ab472006bfedbe8865a99956
+广西卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=BUkUSw==&token=5804bda3ab472006bfedbe8865a99956
+东南卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=Bl8USw==&token=5804bda3ab472006bfedbe8865a99956
+江西卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=CEkUS18A&token=5804bda3ab472006bfedbe8865a99956
+江西卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=CEkUSw==&token=5804bda3ab472006bfedbe8865a99956
+北京卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=AFsUS18A&token=5804bda3ab472006bfedbe8865a99956
+北京卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=AFsUSw==&token=5804bda3ab472006bfedbe8865a99956
+东方卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=BlcUS18A&token=5804bda3ab472006bfedbe8865a99956
+东方卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=BlcUSw==&token=5804bda3ab472006bfedbe8865a99956
+辽宁卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=Dl8US18A&token=5804bda3ab472006bfedbe8865a99956
+辽宁卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=Dl8USw==&token=5804bda3ab472006bfedbe8865a99956
+重庆卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=AUAUS18A&token=5804bda3ab472006bfedbe8865a99956
+重庆卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=AUAUSw==&token=5804bda3ab472006bfedbe8865a99956
+天津卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=FlsUS18A&token=5804bda3ab472006bfedbe8865a99956
+天津卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=FlsUSw==&token=5804bda3ab472006bfedbe8865a99956
+安徽卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=A1kUS18A&token=5804bda3ab472006bfedbe8865a99956
+安徽卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=A1kUSw==&token=5804bda3ab472006bfedbe8865a99956
+贵州卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=BUsUSw==&token=5804bda3ab472006bfedbe8865a99956
+四川卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=EVIUS18A&token=5804bda3ab472006bfedbe8865a99956
+四川卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=EVIUSw==&token=5804bda3ab472006bfedbe8865a99956
+山东卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=EVUUS18A&token=5804bda3ab472006bfedbe8865a99956
+山东卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=EVUUSw==&token=5804bda3ab472006bfedbe8865a99956
+吉林卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=CF0USw==&token=5804bda3ab472006bfedbe8865a99956
+黑龙江卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=Cl0JT0QMVw==&token=5804bda3ab472006bfedbe8865a99956
+黑龙江卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=Cl0JT0Q=&token=5804bda3ab472006bfedbe8865a99956
+河北卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=ClMUS18A&token=5804bda3ab472006bfedbe8865a99956
+河北卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=ClMUSw==&token=5804bda3ab472006bfedbe8865a99956
+河南卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=Cl8USw==&token=5804bda3ab472006bfedbe8865a99956
+内蒙古卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=DFwET0Q=&token=5804bda3ab472006bfedbe8865a99956
+宁夏卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=DEkUSw==&token=5804bda3ab472006bfedbe8865a99956
+甘肃卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=BUIUSw==&token=5804bda3ab472006bfedbe8865a99956
+海南卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=ClgNT0QMVw==&token=5804bda3ab472006bfedbe8865a99956
+海南卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=ClgNT0Q=&token=5804bda3ab472006bfedbe8865a99956
+新疆卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=GlsUSw==&token=5804bda3ab472006bfedbe8865a99956
+西藏卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=GksUS18A&token=5804bda3ab472006bfedbe8865a99956
+广东卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=BVUUS18A&token=5804bda3ab472006bfedbe8865a99956
+广东卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=BVUUSw==&token=5804bda3ab472006bfedbe8865a99956
+大湾区卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=BkYST0Q=&token=5804bda3ab472006bfedbe8865a99956
+YY⚛️香港,#genre#
+翡翠台,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTmMSUS8FUFA=&token=5804bda3ab472006bfedbe8865a99956
+翡翠台,http://3.bhzz.today:61231/777/zyzb.php?cid=NmchUlYAVi0gfH4=&token=5804bda3ab472006bfedbe8865a99956
+翡翠台,http://3.bhzz.today:61231/777/zyzb.php?cid=FkcBUlYAVg==&token=5804bda3ab472006bfedbe8865a99956
+翡翠台,http://3.bhzz.today:61231/777/zyzb.php?cid=NmchUlYAVi0vcHA=&token=5804bda3ab472006bfedbe8865a99956
+翡翠台,http://3.bhzz.today:61231/777/zyzb.php?cid=NmchUlYAVi0v&token=5804bda3ab472006bfedbe8865a99956
+翡翠台,http://3.bhzz.today:61231/777/zyzb.php?cid=CFAHXV8P&token=5804bda3ab472006bfedbe8865a99956
+翡翠台,http://3.bhzz.today:61231/777/zyzb.php?cid=KHAnfQ==&token=5804bda3ab472006bfedbe8865a99956
+翡翠台,http://3.bhzz.today:61231/777/zyzb.php?cid=UA==&token=5804bda3ab472006bfedbe8865a99956
+翡翠台(美加·东岸时区),http://3.bhzz.today:61231/777/zyzb.php?cid=NmchcnIlYDE=&token=5804bda3ab472006bfedbe8865a99956
+翡翠台(美加·西岸时区),http://3.bhzz.today:61231/777/zyzb.php?cid=NmchcmAhYDE=&token=5804bda3ab472006bfedbe8865a99956
+翡翠台(欧·新时区),http://3.bhzz.today:61231/777/zyzb.php?cid=NmchcnYxYA==&token=5804bda3ab472006bfedbe8865a99956
+翡翠台(英国时区),http://3.bhzz.today:61231/777/zyzb.php?cid=NmchcmIv&token=5804bda3ab472006bfedbe8865a99956
+TVB Plus,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTmMSUTUIQUY=&token=5804bda3ab472006bfedbe8865a99956
+TVB Plus,http://3.bhzz.today:61231/777/zyzb.php?cid=NmchaFsRQC0gfH4=&token=5804bda3ab472006bfedbe8865a99956
+TVB Plus,http://3.bhzz.today:61231/777/zyzb.php?cid=NmchHQVUYwkRR3F2&token=5804bda3ab472006bfedbe8865a99956
+TVB Plus,http://3.bhzz.today:61231/777/zyzb.php?cid=NmchHQVUYwkRRw==&token=5804bda3ab472006bfedbe8865a99956
+TVB Plus,http://3.bhzz.today:61231/777/zyzb.php?cid=CAMLUw==&token=5804bda3ab472006bfedbe8865a99956
+TVB Plus,http://3.bhzz.today:61231/777/zyzb.php?cid=KAM=&token=5804bda3ab472006bfedbe8865a99956
+TVB Plus,http://3.bhzz.today:61231/777/zyzb.php?cid=Vw==&token=5804bda3ab472006bfedbe8865a99956
+无线新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTmMSUSsBQ0Y=&token=5804bda3ab472006bfedbe8865a99956
+无线新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=NmchUVkBRBYscH14&token=5804bda3ab472006bfedbe8865a99956
+无线新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=NmchUVkBRBYgcQ==&token=5804bda3ab472006bfedbe8865a99956
+无线新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=FkcBVlITQA0P&token=5804bda3ab472006bfedbe8865a99956
+无线新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=NmchdnIzYA==&token=5804bda3ab472006bfedbe8865a99956
+无线新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=NmchdnIzYDA3&token=5804bda3ab472006bfedbe8865a99956
+无线新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=FkcBVlITQA==&token=5804bda3ab472006bfedbe8865a99956
+无线新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=UwI=&token=5804bda3ab472006bfedbe8865a99956
+明珠台,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTmMSUTUBVUdf&token=5804bda3ab472006bfedbe8865a99956
+明珠台,http://3.bhzz.today:61231/777/zyzb.php?cid=NmchaFIFQQksfw==&token=5804bda3ab472006bfedbe8865a99956
+明珠台,http://3.bhzz.today:61231/777/zyzb.php?cid=FkcBSFIFQQk=&token=5804bda3ab472006bfedbe8865a99956
+明珠台,http://3.bhzz.today:61231/777/zyzb.php?cid=ElQCSlsMWA==&token=5804bda3ab472006bfedbe8865a99956
+明珠台,http://3.bhzz.today:61231/777/zyzb.php?cid=NmchaA==&token=5804bda3ab472006bfedbe8865a99956
+明珠台,http://3.bhzz.today:61231/777/zyzb.php?cid=UQ==&token=5804bda3ab472006bfedbe8865a99956
+TVB生活台,http://3.bhzz.today:61231/777/zyzb.php?cid=FkcBVF4CVgYMVVtdB1o=&token=5804bda3ab472006bfedbe8865a99956
+TVB生活台,http://3.bhzz.today:61231/777/zyzb.php?cid=NmchdF4CVhYQTVlWNn4=&token=5804bda3ab472006bfedbe8865a99956
+TVB星河频道,http://3.bhzz.today:61231/777/zyzb.php?cid=NmchYH8seA==&token=5804bda3ab472006bfedbe8865a99956
+TVB星河频道,http://3.bhzz.today:61231/777/zyzb.php?cid=NmchYF4KVC0BfH4=&token=5804bda3ab472006bfedbe8865a99956
+TVB星河频道,http://3.bhzz.today:61231/777/zyzb.php?cid=Vg==&token=5804bda3ab472006bfedbe8865a99956
+TVB星河国语,http://3.bhzz.today:61231/777/zyzb.php?cid=NmchYH8nfQ==&token=5804bda3ab472006bfedbe8865a99956
+TVB星河国语,http://3.bhzz.today:61231/777/zyzb.php?cid=NmchYF4KVC0Bd3s=&token=5804bda3ab472006bfedbe8865a99956
+凤凰资讯台,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTmcMXAAKXU16DFBe&token=5804bda3ab472006bfedbe8865a99956
+凤凰资讯台,http://3.bhzz.today:61231/777/zyzb.php?cid=UwlQ&token=5804bda3ab472006bfedbe8865a99956
+凤凰资讯台,http://3.bhzz.today:61231/777/zyzb.php?cid=Mngt&token=5804bda3ab472006bfedbe8865a99956
+凤凰资讯台,http://3.bhzz.today:61231/777/zyzb.php?cid=MlkMXVkNSywKUlp+OxVBDl9RXghBDQgFDg==&token=5804bda3ab472006bfedbe8865a99956
+凤凰中文,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTmcMXAAKXU1wCl9fA0NR&token=5804bda3ab472006bfedbe8865a99956
+凤凰中文,http://3.bhzz.today:61231/777/zyzb.php?cid=MlkMXVkNSyYMXVtWEVN8Pw==&token=5804bda3ab472006bfedbe8865a99956
+凤凰中文,http://3.bhzz.today:61231/777/zyzb.php?cid=MnIg&token=5804bda3ab472006bfedbe8865a99956
+凤凰中文,http://3.bhzz.today:61231/777/zyzb.php?cid=UwlR&token=5804bda3ab472006bfedbe8865a99956
+凤凰香港,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTmcMXAAKXU17KQ==&token=5804bda3ab472006bfedbe8865a99956
+凤凰香港,http://3.bhzz.today:61231/777/zyzb.php?cid=Mnko&token=5804bda3ab472006bfedbe8865a99956
+凤凰香港,http://3.bhzz.today:61231/777/zyzb.php?cid=ElkMXVkNSw0P&token=5804bda3ab472006bfedbe8865a99956
+凤凰香港,http://3.bhzz.today:61231/777/zyzb.php?cid=UwlX&token=5804bda3ab472006bfedbe8865a99956
+TVB1,http://3.bhzz.today:61231/777/zyzb.php?cid=NmchCWI3&token=5804bda3ab472006bfedbe8865a99956
+TVB1,http://3.bhzz.today:61231/777/zyzb.php?cid=UwZV&token=5804bda3ab472006bfedbe8865a99956
+TVB Pearl Drama 明珠剧集台,http://3.bhzz.today:61231/777/zyzb.php?cid=NmchaFIFQQkgRlReA2Ni&token=5804bda3ab472006bfedbe8865a99956
+TVBJ1,http://3.bhzz.today:61231/777/zyzb.php?cid=NmchcgYzVhYQ&token=5804bda3ab472006bfedbe8865a99956
+TVBJ1,http://3.bhzz.today:61231/777/zyzb.php?cid=NmchcgYxYA==&token=5804bda3ab472006bfedbe8865a99956
+TVBJ1,http://3.bhzz.today:61231/777/zyzb.php?cid=UwhW&token=5804bda3ab472006bfedbe8865a99956
+TVB J2,http://3.bhzz.today:61231/777/zyzb.php?cid=NmchHQVUYwkRR2Bg&token=5804bda3ab472006bfedbe8865a99956
+TVB Drama 翡翠剧集台,http://3.bhzz.today:61231/777/zyzb.php?cid=NmchfEUFXgQzUUZH&token=5804bda3ab472006bfedbe8865a99956
+TVB Drama 翡翠剧集台,http://3.bhzz.today:61231/777/zyzb.php?cid=NmchfEUFXgQxZw==&token=5804bda3ab472006bfedbe8865a99956
+TVB Drama 翡翠剧集台,http://3.bhzz.today:61231/777/zyzb.php?cid=UwZU&token=5804bda3ab472006bfedbe8865a99956
+TVB E 翡翠娛樂台,http://3.bhzz.today:61231/777/zyzb.php?cid=NmchfWABQBE=&token=5804bda3ab472006bfedbe8865a99956
+TVB E 翡翠娛樂台,http://3.bhzz.today:61231/777/zyzb.php?cid=NmchfWI3&token=5804bda3ab472006bfedbe8865a99956
+TVB E 翡翠娛樂台,http://3.bhzz.today:61231/777/zyzb.php?cid=UwZW&token=5804bda3ab472006bfedbe8865a99956
+POP C,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTmcLQyY=&token=5804bda3ab472006bfedbe8865a99956
+POP C,http://3.bhzz.today:61231/777/zyzb.php?cid=Mn4ze38v&token=5804bda3ab472006bfedbe8865a99956
+POP C,http://3.bhzz.today:61231/777/zyzb.php?cid=I18KVVYcey4mcw==&token=5804bda3ab472006bfedbe8865a99956
+POP C,http://3.bhzz.today:61231/777/zyzb.php?cid=UwZa&token=5804bda3ab472006bfedbe8865a99956
+Now爆谷台,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4UelYLVBApW0NaB0V5LXhwEy9WEyQCDgFMewpEWFIRci1wcw==&token=5804bda3ab472006bfedbe8865a99956
+Now爆谷台,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4UelYLVBApW0NaB0V5LRN6XxZ7BQkEFCtWQAxXQnQsEi1XQCZ0MSx/Fn0NQXMhZHx7Inc=&token=5804bda3ab472006bfedbe8865a99956
+Now爆谷台,http://3.bhzz.today:61231/777/zyzb.php?cid=UwlU&token=5804bda3ab472006bfedbe8865a99956
+Now星影台,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4UelYLVBA3QUVWEEVFB0JHeCpxIA==&token=5804bda3ab472006bfedbe8865a99956
+Now星影台,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4UelYLVBA3QUVWEEVFB0JHcy9xIA==&token=5804bda3ab472006bfedbe8865a99956
+Now星影台,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4UelYLVBA3QUVWEEVFB0JHeCoaKgkUIwdWURBhREcHQxBMVhZAJioXe1wVbmgyeH8TL1YTPjo1LnJ1Kw==&token=5804bda3ab472006bfedbe8865a99956
+Now星影台,http://3.bhzz.today:61231/777/zyzb.php?cid=UwlV&token=5804bda3ab472006bfedbe8865a99956
+Now华剧台,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4Ue18NXQAXUXFBA1tQJVhVXg9cCC4oIyE=&token=5804bda3ab472006bfedbe8865a99956
+Now华剧台,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4Ue18NXQAXUXFBA1tQJVhVXg9cCC4oQihWQSZaWFkHQgZ3RwFBBCx/Fn0NQXIOWVpVElwgFAIMB3peBFxfUg55KHpw&token=5804bda3ab472006bfedbe8865a99956
+Now剧集台,http://3.bhzz.today:61231/777/zyzb.php?cid=NFgWW18FXQsBWH14IHE=&token=5804bda3ab472006bfedbe8865a99956
+Now剧集台,http://3.bhzz.today:61231/777/zyzb.php?cid=NFgWW18FXQsBWH14QXheEXRGUQxYNwMRCANKfi4RZ14XUgtZWQpWCSx/d3Q=&token=5804bda3ab472006bfedbe8865a99956
+Astro AEC,http://3.bhzz.today:61231/777/zyzb.php?cid=I0IXSlgldiYscA==&token=5804bda3ab472006bfedbe8865a99956
+Astro QJ,http://3.bhzz.today:61231/777/zyzb.php?cid=I0IXSlg1RgQKflxSKnI=&token=5804bda3ab472006bfedbe8865a99956
+Astro AOD,http://3.bhzz.today:61231/777/zyzb.php?cid=I0IXSlglfCFXBQR7Jn56RXFHRBNWJSknUlcIfiFxfw==&token=5804bda3ab472006bfedbe8865a99956
+Astro 欢喜台,http://3.bhzz.today:61231/777/zyzb.php?cid=I0IXSlgsRgQsUVB3A195Ig==&token=5804bda3ab472006bfedbe8865a99956
+娱家台,http://3.bhzz.today:61231/777/zyzb.php?cid=KkQBbmEgQQQJVQ==&token=5804bda3ab472006bfedbe8865a99956
+都会台,http://3.bhzz.today:61231/777/zyzb.php?cid=KkQBfXQNRxw=&token=5804bda3ab472006bfedbe8865a99956
+Now新闻台,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4UTEEKVhIX&token=5804bda3ab472006bfedbe8865a99956
+Now新闻台,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4UCwRWey5HelpELFNGFXh/&token=5804bda3ab472006bfedbe8865a99956
+Now新闻台,http://3.bhzz.today:61231/777/zyzb.php?cid=UAA=&token=5804bda3ab472006bfedbe8865a99956
+Now直播台,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4UTEEIWhMB&token=5804bda3ab472006bfedbe8865a99956
+Now直播台,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4UCwRVey5HelpELl9HA3h/&token=5804bda3ab472006bfedbe8865a99956
+Now直播台,http://3.bhzz.today:61231/777/zyzb.php?cid=UAY=&token=5804bda3ab472006bfedbe8865a99956
+Now财经台,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4UTEECWgsFWlZW&token=5804bda3ab472006bfedbe8865a99956
+Now财经台,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4UCwRXey5HelpEJF9fB15XVSly&token=5804bda3ab472006bfedbe8865a99956
+Now财经台,http://3.bhzz.today:61231/777/zyzb.php?cid=UAI=&token=5804bda3ab472006bfedbe8865a99956
+NowJelli紫金国际,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4UclIIXwwsfw==&token=5804bda3ab472006bfedbe8865a99956
+NowJelli紫金国际,http://3.bhzz.today:61231/777/zyzb.php?cid=DF4UUlIIXww=&token=5804bda3ab472006bfedbe8865a99956
+Now Sports 630,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4UDgRUey4=&token=5804bda3ab472006bfedbe8865a99956
+Now Sports 630,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4Ua0cLQREXAgYD&token=5804bda3ab472006bfedbe8865a99956
+Now Sports 641,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4Ua0cLQREXd30FVgd5LQ==&token=5804bda3ab472006bfedbe8865a99956
+Now Sports Plus,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4Ua0cLQREXZFlGEX56&token=5804bda3ab472006bfedbe8865a99956
+Now Sports Plus,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4Ua0cLQREXAg0D&token=5804bda3ab472006bfedbe8865a99956
+Now Sports 1,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4Ua0cLQREXBX14&token=5804bda3ab472006bfedbe8865a99956
+Now Sports 2,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4Ua0cLQREXBn14&token=5804bda3ab472006bfedbe8865a99956
+Now Sports 3,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4Ua0cLQREXB314&token=5804bda3ab472006bfedbe8865a99956
+Now Sports 4,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4Ua0cLQREXAH14&token=5804bda3ab472006bfedbe8865a99956
+Now Sports 5,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4Ua0cLQREXAX14&token=5804bda3ab472006bfedbe8865a99956
+Now Sports 6,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4Ua0cLQREXAn14&token=5804bda3ab472006bfedbe8865a99956
+Now Sports 7,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4Ua0cLQREXA314&token=5804bda3ab472006bfedbe8865a99956
+Now Sports 英超1台,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4Ua0cLQREXZEdWD19UFHxRUQZMAVcrKg==&token=5804bda3ab472006bfedbe8865a99956
+Now Sports 英超2台,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4Ua0cLQREXZEdWD19UFHxRUQZMAVQrKg==&token=5804bda3ab472006bfedbe8865a99956
+Now Sports 英超3台,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4Ua0cLQREXZEdWD19UFHxRUQZMAVUrKg==&token=5804bda3ab472006bfedbe8865a99956
+Now Sports 英超4台,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4Ua0cLQREXZEdWD19UFHxRUQZMAVIrKg==&token=5804bda3ab472006bfedbe8865a99956
+Now Sports 英超5台,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4Ua0cLQREXZEdWD19UFHxRUQZMAVMrKg==&token=5804bda3ab472006bfedbe8865a99956
+Now Sports 英超6台,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4Ua0cLQREXZEdWD19UFHxRUQZMAVArKg==&token=5804bda3ab472006bfedbe8865a99956
+bEINSports1,http://3.bhzz.today:61231/777/zyzb.php?cid=AHQqdmQUXBcQRwR7KQ==&token=5804bda3ab472006bfedbe8865a99956
+bEINSports2,http://3.bhzz.today:61231/777/zyzb.php?cid=AHQqdmQUXBcQRwd7KQ==&token=5804bda3ab472006bfedbe8865a99956
+bEINSports3,http://3.bhzz.today:61231/777/zyzb.php?cid=AHQqdmQUXBcQRwZ7KQ==&token=5804bda3ab472006bfedbe8865a99956
+NBA TV,http://3.bhzz.today:61231/777/zyzb.php?cid=LHMibGEseA==&token=5804bda3ab472006bfedbe8865a99956
+TVB功夫台,http://3.bhzz.today:61231/777/zyzb.php?cid=I0IKWXYHRwwLWnZ9&token=5804bda3ab472006bfedbe8865a99956
+TVB功夫台,http://3.bhzz.today:61231/777/zyzb.php?cid=I0IKWXYHRwwLWn14&token=5804bda3ab472006bfedbe8865a99956
+TVB功夫台,http://3.bhzz.today:61231/777/zyzb.php?cid=UwM=&token=5804bda3ab472006bfedbe8865a99956
+澳门莲花,http://3.bhzz.today:61231/777/zyzb.php?cid=L1AAWUIIXBERR0FFQQcG&token=5804bda3ab472006bfedbe8865a99956
+WOW TV,http://3.bhzz.today:61231/777/zyzb.php?cid=NX40bGE=&token=5804bda3ab472006bfedbe8865a99956
+KTSF-26美国旧金山,http://3.bhzz.today:61231/777/zyzb.php?cid=KWUwfgVS&token=5804bda3ab472006bfedbe8865a99956
+KR ALL TV,http://3.bhzz.today:61231/777/zyzb.php?cid=KWMidHswZQ==&token=5804bda3ab472006bfedbe8865a99956
+龙祥时代,http://3.bhzz.today:61231/777/zyzb.php?cid=LmI3cXoh&token=5804bda3ab472006bfedbe8865a99956
+中国电影频道,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTnQMWgsFeVpFC1M=&token=5804bda3ab472006bfedbe8865a99956
+中国电影频道,http://3.bhzz.today:61231/777/zyzb.php?cid=IXwgdVgSWgAXfH4=&token=5804bda3ab472006bfedbe8865a99956
+Thrill,http://3.bhzz.today:61231/777/zyzb.php?cid=NlkRUVsIey5Hd2F7MA==&token=5804bda3ab472006bfedbe8865a99956
+Thrill,http://3.bhzz.today:61231/777/zyzb.php?cid=UwNS&token=5804bda3ab472006bfedbe8865a99956
+Thrill,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTmMMQQwIWA==&token=5804bda3ab472006bfedbe8865a99956
+天映频道,http://3.bhzz.today:61231/777/zyzb.php?cid=IVQPXUQQWgQIeVpFC1NCLns=&token=5804bda3ab472006bfedbe8865a99956
+天映频道,http://3.bhzz.today:61231/777/zyzb.php?cid=UwBT&token=5804bda3ab472006bfedbe8865a99956
+天映频道国,http://3.bhzz.today:61231/777/zyzb.php?cid=IVQPXUQQWgQIeVpFC1NCJX4=&token=5804bda3ab472006bfedbe8865a99956
+天映经典,http://3.bhzz.today:61231/777/zyzb.php?cid=IVQPXUQQWgQId1lSEUVYBX1tcy8=&token=5804bda3ab472006bfedbe8865a99956
+天映经典,http://3.bhzz.today:61231/777/zyzb.php?cid=IVQPXUQQWgQId1lSEUVYBX1tfS0=&token=5804bda3ab472006bfedbe8865a99956
+天映经典台,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTnQnfg==&token=5804bda3ab472006bfedbe8865a99956
+天映经典台,http://3.bhzz.today:61231/777/zyzb.php?cid=IXIuV0ENVhYsfxZwIXteEFlRQyJ3RyUgIis=&token=5804bda3ab472006bfedbe8865a99956
+天映经典台,http://3.bhzz.today:61231/777/zyzb.php?cid=UwBS&token=5804bda3ab472006bfedbe8865a99956
+HOY76,http://3.bhzz.today:61231/777/zyzb.php?cid=Kn46e18FXQsBWAIFQV5eH1NcB1c=&token=5804bda3ab472006bfedbe8865a99956
+HOY76,http://3.bhzz.today:61231/777/zyzb.php?cid=Uwc=&token=5804bda3ab472006bfedbe8865a99956
+HOY77,http://3.bhzz.today:61231/777/zyzb.php?cid=Kn46e18FXQsBWAIEQV5eH1NcB1Y=&token=5804bda3ab472006bfedbe8865a99956
+HOY77,http://3.bhzz.today:61231/777/zyzb.php?cid=KnogCAdVdDJHXFpKFkA=&token=5804bda3ab472006bfedbe8865a99956
+HOY77,http://3.bhzz.today:61231/777/zyzb.php?cid=Uw==&token=5804bda3ab472006bfedbe8865a99956
+HOY78,http://3.bhzz.today:61231/777/zyzb.php?cid=Kn46e18FXQsBWAILQV5eH1NcB1k=&token=5804bda3ab472006bfedbe8865a99956
+HOY78,http://3.bhzz.today:61231/777/zyzb.php?cid=KnogCAdWdDJHXFpKC1hXCQ==&token=5804bda3ab472006bfedbe8865a99956
+HOY78,http://3.bhzz.today:61231/777/zyzb.php?cid=UwQ=&token=5804bda3ab472006bfedbe8865a99956
+TVBS衛星亞洲台,http://3.bhzz.today:61231/777/zyzb.php?cid=Nmcha3YXWgQsfw==&token=5804bda3ab472006bfedbe8865a99956
+ViuTV,http://3.bhzz.today:61231/777/zyzb.php?cid=NFgWbEEnWwQKWlBf&token=5804bda3ab472006bfedbe8865a99956
+ViuTV,http://3.bhzz.today:61231/777/zyzb.php?cid=NFgWTEFHAlw=&token=5804bda3ab472006bfedbe8865a99956
+ViuTV6,http://3.bhzz.today:61231/777/zyzb.php?cid=NFgWbEFScA0FWltWDg==&token=5804bda3ab472006bfedbe8865a99956
+ViuTV6,http://3.bhzz.today:61231/777/zyzb.php?cid=NFgWS14cEFdU&token=5804bda3ab472006bfedbe8865a99956
+RTHK31,http://3.bhzz.today:61231/777/zyzb.php?cid=EEULUwRVWwE=&token=5804bda3ab472006bfedbe8865a99956
+RTHK31,http://3.bhzz.today:61231/777/zyzb.php?cid=MGUrcwRVbCEhF2dnKn0CV3hwE1MA&token=5804bda3ab472006bfedbe8865a99956
+RTHK32,http://3.bhzz.today:61231/777/zyzb.php?cid=EEULUwRWWwE=&token=5804bda3ab472006bfedbe8865a99956
+RTHK32,http://3.bhzz.today:61231/777/zyzb.php?cid=MGUrcwRWbCEhF2dnKn0CVHhwE1IJ&token=5804bda3ab472006bfedbe8865a99956
+新时代1,http://3.bhzz.today:61231/777/zyzb.php?cid=JFAKSlQMWgkAYGM=&token=5804bda3ab472006bfedbe8865a99956
+新时代1备,http://3.bhzz.today:61231/777/zyzb.php?cid=JFAKSlQMWgkAYGMB&token=5804bda3ab472006bfedbe8865a99956
+新时代2,http://3.bhzz.today:61231/777/zyzb.php?cid=JFAKSlQMWgkABmFl&token=5804bda3ab472006bfedbe8865a99956
+城市电视,http://3.bhzz.today:61231/777/zyzb.php?cid=NlAPXVkQRQwXXVpd&token=5804bda3ab472006bfedbe8865a99956
+城市电视,http://3.bhzz.today:61231/777/zyzb.php?cid=NlAPXVkQRQwXXVpdNmA=&token=5804bda3ab472006bfedbe8865a99956
+中旺电视,http://3.bhzz.today:61231/777/zyzb.php?cid=OGY3bg==&token=5804bda3ab472006bfedbe8865a99956
+FashionBox,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTnEFQA0NW1txDU4=&token=5804bda3ab472006bfedbe8865a99956
+FashionBox,http://3.bhzz.today:61231/777/zyzb.php?cid=JHAwcH4rfSoqcX14&token=5804bda3ab472006bfedbe8865a99956
+tvN,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTmMSXQ==&token=5804bda3ab472006bfedbe8865a99956
+tvN,http://3.bhzz.today:61231/777/zyzb.php?cid=FkctcHw=&token=5804bda3ab472006bfedbe8865a99956
+Kix,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTnwtaw==&token=5804bda3ab472006bfedbe8865a99956
+Kix,http://3.bhzz.today:61231/777/zyzb.php?cid=KXg7cHxHeCw8dnIQIX14Pg==&token=5804bda3ab472006bfedbe8865a99956
+Kix,http://3.bhzz.today:61231/777/zyzb.php?cid=UwBb&token=5804bda3ab472006bfedbe8865a99956
+ROCK超级娱乐,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTmULUA4lV0FaDVg=&token=5804bda3ab472006bfedbe8865a99956
+ROCK超级娱乐,http://3.bhzz.today:61231/777/zyzb.php?cid=MH4gc3YHRwwLWhZwMGJp&token=5804bda3ab472006bfedbe8865a99956
+ROCK综艺娱乐,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTmULUA4hWkFWEEJQD15ZVQ9N&token=5804bda3ab472006bfedbe8865a99956
+ROCK综艺娱乐,http://3.bhzz.today:61231/777/zyzb.php?cid=MH4gc24+ailHd2dnJw==&token=5804bda3ab472006bfedbe8865a99956
+黃金華劇台,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTnALXwEBWnZbC1hUFVVwQgBUBQ==&token=5804bda3ab472006bfedbe8865a99956
+黃金華劇台,http://3.bhzz.today:61231/777/zyzb.php?cid=UAk=&token=5804bda3ab472006bfedbe8865a99956
+MyTV黄金翡翠台,http://3.bhzz.today:61231/777/zyzb.php?cid=Nmchf1gIVwAKflRXB356&token=5804bda3ab472006bfedbe8865a99956
+MyTV黄金翡翠台,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTnALXwEBWn9SBlM=&token=5804bda3ab472006bfedbe8865a99956
+HKC18台,http://3.bhzz.today:61231/777/zyzb.php?cid=KnogCQ8=&token=5804bda3ab472006bfedbe8865a99956
+HKC18台,http://3.bhzz.today:61231/777/zyzb.php?cid=KnogCQ9Hey4nAgUAKnISVwg=&token=5804bda3ab472006bfedbe8865a99956
+千禧经典,http://3.bhzz.today:61231/777/zyzb.php?cid=Nmche1sFQBYNV3hq&token=5804bda3ab472006bfedbe8865a99956
+千禧经典,http://3.bhzz.today:61231/777/zyzb.php?cid=Uwhb&token=5804bda3ab472006bfedbe8865a99956
+MyTV千禧经典台,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTnQIUhYXXVY=&token=5804bda3ab472006bfedbe8865a99956
+MyTV千禧经典台,http://3.bhzz.today:61231/777/zyzb.php?cid=Nmche1sFQBYNV314QQcA&token=5804bda3ab472006bfedbe8865a99956
+亚洲剧台,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTnYXWgQKcEdSD1c=&token=5804bda3ab472006bfedbe8865a99956
+亚洲剧台,http://3.bhzz.today:61231/777/zyzb.php?cid=NmcheUQNUgsgRlReA356RWRiciBKDQcNJRRYWwR6enUlElQbdDBlNg==&token=5804bda3ab472006bfedbe8865a99956
+华语剧台,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTnQMWgsBR1B3EFdcBw==&token=5804bda3ab472006bfedbe8865a99956
+华语剧台,http://3.bhzz.today:61231/777/zyzb.php?cid=Nmche18NXQAXUXFBA1tQLnsXZDd7Jw4KDwNKUyFAUFoDeSh7eUcLRidwZwA=&token=5804bda3ab472006bfedbe8865a99956
+TVB娱乐新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTmMSUSAKQFBBFldYCF1RXhU=&token=5804bda3ab472006bfedbe8865a99956
+TVB娱乐新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=NmchfVkQVhcQVVxdD1NfEn5RRxJxL0UgNTB8FVQC&token=5804bda3ab472006bfedbe8865a99956
+亚洲综合娱乐台,http://3.bhzz.today:61231/777/zyzb.php?cid=L2g3bnY3eiQydWd6J2Jo&token=5804bda3ab472006bfedbe8865a99956
+亚洲综合娱乐台,http://3.bhzz.today:61231/777/zyzb.php?cid=UAU=&token=5804bda3ab472006bfedbe8865a99956
+TVBSuperFree,http://3.bhzz.today:61231/777/zyzb.php?cid=Nmcha0IUVhcCRlBWKn0SMmZ2YxRJARQFEwNcfi5wdhQhZip2FDdmNSFmfloGRXIOUVpeBFUsLSEmRWpjNXdjfAtVEHtfBV0LAVh9eA==&token=5804bda3ab472006bfedbe8865a99956
+TVBSuperFree,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTmQRQwAWckdWBw==&token=5804bda3ab472006bfedbe8865a99956
+Hands UP,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTnwNVxYnXFRdDFNd&token=5804bda3ab472006bfedbe8865a99956
+Hands UP,http://3.bhzz.today:61231/777/zyzb.php?cid=UARAc34g&token=5804bda3ab472006bfedbe8865a99956
+戏曲台,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTngUVhcFd11SDFhUCg==&token=5804bda3ab472006bfedbe8865a99956
+戏曲台,http://3.bhzz.today:61231/777/zyzb.php?cid=UAFT&token=5804bda3ab472006bfedbe8865a99956
+Animax,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTnYKWggFTHY=&token=5804bda3ab472006bfedbe8865a99956
+Animax,http://3.bhzz.today:61231/777/zyzb.php?cid=I18KVVYcey4=&token=5804bda3ab472006bfedbe8865a99956
+ZooMoo,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTm0LXCgLWw==&token=5804bda3ab472006bfedbe8865a99956
+Nickelodeon,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTnkNUA4BWFBXB1lf&token=5804bda3ab472006bfedbe8865a99956
+NickJr儿童频道,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTnkNUA4uRg==&token=5804bda3ab472006bfedbe8865a99956
+DreamWorks,http://3.bhzz.today:61231/777/zyzb.php?cid=JkMGWVozXBcPR314&token=5804bda3ab472006bfedbe8865a99956
+年代Much,http://3.bhzz.today:61231/777/zyzb.php?cid=B0MCVUIHWw==&token=5804bda3ab472006bfedbe8865a99956
+粤语片台,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTnQFXRELWlBAB3VZB15aVQ0=&token=5804bda3ab472006bfedbe8865a99956
+粤语片台,http://3.bhzz.today:61231/777/zyzb.php?cid=VA==&token=5804bda3ab472006bfedbe8865a99956
+美亚电影国,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTnoBWhwFeVpFC1N0KA==&token=5804bda3ab472006bfedbe8865a99956
+美亚电影国,http://3.bhzz.today:61231/777/zyzb.php?cid=IXwidX8vcSI=&token=5804bda3ab472006bfedbe8865a99956
+美亚电影国,http://3.bhzz.today:61231/777/zyzb.php?cid=IXwidQ==&token=5804bda3ab472006bfedbe8865a99956
+美亚电影,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTnoBWhwFeVpFC1NyKA==&token=5804bda3ab472006bfedbe8865a99956
+美亚电影,http://3.bhzz.today:61231/777/zyzb.php?cid=IXwidX8v&token=5804bda3ab472006bfedbe8865a99956
+美亚电影,http://3.bhzz.today:61231/777/zyzb.php?cid=Ww==&token=5804bda3ab472006bfedbe8865a99956
+HBO,http://3.bhzz.today:61231/777/zyzb.php?cid=KnMscHw=&token=5804bda3ab472006bfedbe8865a99956
+HBOHD,http://3.bhzz.today:61231/777/zyzb.php?cid=Wwc=&token=5804bda3ab472006bfedbe8865a99956
+HBO Signature,http://3.bhzz.today:61231/777/zyzb.php?cid=WwY=&token=5804bda3ab472006bfedbe8865a99956
+HBO HiTS,http://3.bhzz.today:61231/777/zyzb.php?cid=Wwk=&token=5804bda3ab472006bfedbe8865a99956
+HBO family,http://3.bhzz.today:61231/777/zyzb.php?cid=Wwg=&token=5804bda3ab472006bfedbe8865a99956
+AXN,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTnY8fQ==&token=5804bda3ab472006bfedbe8865a99956
+axn,http://3.bhzz.today:61231/777/zyzb.php?cid=I2ktcHw=&token=5804bda3ab472006bfedbe8865a99956
+GlobalTrekker,http://3.bhzz.today:61231/777/zyzb.php?cid=JV0MWlYIZxcBX15WEA==&token=5804bda3ab472006bfedbe8865a99956
+Love Nature,http://3.bhzz.today:61231/777/zyzb.php?cid=Ll4VXXkFRxAWUX13&token=5804bda3ab472006bfedbe8865a99956
+mySUPER直播足球2台,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTmQUXBcQRwc=&token=5804bda3ab472006bfedbe8865a99956
+mySUPER直播足球3台,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTmQUXBcQRwY=&token=5804bda3ab472006bfedbe8865a99956
+mySUPER直播足球4台,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTmQUXBcQRwE=&token=5804bda3ab472006bfedbe8865a99956
+mySUPER直播足球5台,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTmQUXBcQRwA=&token=5804bda3ab472006bfedbe8865a99956
+mySUPER直播足球6台,http://3.bhzz.today:61231/777/zyzb.php?cid=L0gXTmQUXBcQRwM=&token=5804bda3ab472006bfedbe8865a99956
+YY⚛️台湾,#genre#
+中视,http://3.bhzz.today:61231/777/zyzb.php?cid=AUUVTEAMVw==&token=5804bda3ab472006bfedbe8865a99956
+中视,http://3.bhzz.today:61231/777/zyzb.php?cid=AUUV&token=5804bda3ab472006bfedbe8865a99956
+中视新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=AUUVVlITQEYHQENdB0FCCl0=&token=5804bda3ab472006bfedbe8865a99956
+中视新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=AUUVVlITQBw=&token=5804bda3ab472006bfedbe8865a99956
+中视经典,http://3.bhzz.today:61231/777/zyzb.php?cid=AUUVW1sFQBYNVw==&token=5804bda3ab472006bfedbe8865a99956
+中视菁采,http://3.bhzz.today:61231/777/zyzb.php?cid=AUUVWkUFRQo=&token=5804bda3ab472006bfedbe8865a99956
+公视,http://3.bhzz.today:61231/777/zyzb.php?cid=EkUQUFM=&token=5804bda3ab472006bfedbe8865a99956
+公视,http://3.bhzz.today:61231/777/zyzb.php?cid=EkUQUFMIXg==&token=5804bda3ab472006bfedbe8865a99956
+公视,http://3.bhzz.today:61231/777/zyzb.php?cid=MmUwcHM=&token=5804bda3ab472006bfedbe8865a99956
+公视,http://3.bhzz.today:61231/777/zyzb.php?cid=UQg=&token=5804bda3ab472006bfedbe8865a99956
+公视3,http://3.bhzz.today:61231/777/zyzb.php?cid=MmUwCw==&token=5804bda3ab472006bfedbe8865a99956
+公视戏剧,http://3.bhzz.today:61231/777/zyzb.php?cid=EkUQXEUFXgQ=&token=5804bda3ab472006bfedbe8865a99956
+公视台语台,http://3.bhzz.today:61231/777/zyzb.php?cid=MmUwCg==&token=5804bda3ab472006bfedbe8865a99956
+公视新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=MmUwdlITQA==&token=5804bda3ab472006bfedbe8865a99956
+民视,http://3.bhzz.today:61231/777/zyzb.php?cid=BEUVUFM=&token=5804bda3ab472006bfedbe8865a99956
+民视,http://3.bhzz.today:61231/777/zyzb.php?cid=BEUVUFMIXg==&token=5804bda3ab472006bfedbe8865a99956
+民视,http://3.bhzz.today:61231/777/zyzb.php?cid=UQc=&token=5804bda3ab472006bfedbe8865a99956
+民视第一台,http://3.bhzz.today:61231/777/zyzb.php?cid=BFwXTg==&token=5804bda3ab472006bfedbe8865a99956
+民视第一台,http://3.bhzz.today:61231/777/zyzb.php?cid=VgQ=&token=5804bda3ab472006bfedbe8865a99956
+民视台湾台,http://3.bhzz.today:61231/777/zyzb.php?cid=BEUXTg==&token=5804bda3ab472006bfedbe8865a99956
+民视台湾台,http://3.bhzz.today:61231/777/zyzb.php?cid=UQY=&token=5804bda3ab472006bfedbe8865a99956
+民视新闻台,http://3.bhzz.today:61231/777/zyzb.php?cid=BEUVVlITQA==&token=5804bda3ab472006bfedbe8865a99956
+民视新闻台,http://3.bhzz.today:61231/777/zyzb.php?cid=BEUVVlITQBw=&token=5804bda3ab472006bfedbe8865a99956
+民视新闻台,http://3.bhzz.today:61231/777/zyzb.php?cid=BEUVVlITQAkJ&token=5804bda3ab472006bfedbe8865a99956
+民视新闻台,http://3.bhzz.today:61231/777/zyzb.php?cid=UwVX&token=5804bda3ab472006bfedbe8865a99956
+民视影剧台,http://3.bhzz.today:61231/777/zyzb.php?cid=BEUVVVgSWgAARlReAw==&token=5804bda3ab472006bfedbe8865a99956
+民视旅游台,http://3.bhzz.today:61231/777/zyzb.php?cid=BEUVTEUFRQAI&token=5804bda3ab472006bfedbe8865a99956
+民视综艺台,http://3.bhzz.today:61231/777/zyzb.php?cid=BEUVTlYWWgAQTQ==&token=5804bda3ab472006bfedbe8865a99956
+台视,http://3.bhzz.today:61231/777/zyzb.php?cid=FkUV&token=5804bda3ab472006bfedbe8865a99956
+台视,http://3.bhzz.today:61231/777/zyzb.php?cid=FkUVUFM7VwA=&token=5804bda3ab472006bfedbe8865a99956
+台视,http://3.bhzz.today:61231/777/zyzb.php?cid=FkUVUFMIXg==&token=5804bda3ab472006bfedbe8865a99956
+台视,http://3.bhzz.today:61231/777/zyzb.php?cid=NmU1cHM=&token=5804bda3ab472006bfedbe8865a99956
+台视新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=FkUVVlITQA0ATQ==&token=5804bda3ab472006bfedbe8865a99956
+台视新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=FkUVVlITQAkJ&token=5804bda3ab472006bfedbe8865a99956
+台视新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=NmU1dlITQA==&token=5804bda3ab472006bfedbe8865a99956
+台视新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=UwVb&token=5804bda3ab472006bfedbe8865a99956
+台视综合,http://3.bhzz.today:61231/777/zyzb.php?cid=FkUVTlYWWgAQTQ==&token=5804bda3ab472006bfedbe8865a99956
+台视综合,http://3.bhzz.today:61231/777/zyzb.php?cid=NmU1Yn8=&token=5804bda3ab472006bfedbe8865a99956
+台视财经,http://3.bhzz.today:61231/777/zyzb.php?cid=FkUVXl4KUgsHUQ==&token=5804bda3ab472006bfedbe8865a99956
+台视财经,http://3.bhzz.today:61231/777/zyzb.php?cid=NmU1e30=&token=5804bda3ab472006bfedbe8865a99956
+台湾戏剧,http://3.bhzz.today:61231/777/zyzb.php?cid=FlAKT1YKVxcFWVRbBg==&token=5804bda3ab472006bfedbe8865a99956
+台湾戏剧,http://3.bhzz.today:61231/777/zyzb.php?cid=NlAKT1YKdxcFWVQ=&token=5804bda3ab472006bfedbe8865a99956
+华视,http://3.bhzz.today:61231/777/zyzb.php?cid=AUUQUFM=&token=5804bda3ab472006bfedbe8865a99956
+华视,http://3.bhzz.today:61231/777/zyzb.php?cid=AUUQUFMIXg==&token=5804bda3ab472006bfedbe8865a99956
+华视,http://3.bhzz.today:61231/777/zyzb.php?cid=UQk=&token=5804bda3ab472006bfedbe8865a99956
+华视新闻资讯,http://3.bhzz.today:61231/777/zyzb.php?cid=AUUQVlITQAwKUlo=&token=5804bda3ab472006bfedbe8865a99956
+华视新闻资讯,http://3.bhzz.today:61231/777/zyzb.php?cid=AUUQVlITQA==&token=5804bda3ab472006bfedbe8865a99956
+霹雳台湾台,http://3.bhzz.today:61231/777/zyzb.php?cid=ElgPUUMFWhIFWg==&token=5804bda3ab472006bfedbe8865a99956
+霹雳台湾台,http://3.bhzz.today:61231/777/zyzb.php?cid=MlgPUUMFWg==&token=5804bda3ab472006bfedbe8865a99956
+壹新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=DFQbTFkBRBY=&token=5804bda3ab472006bfedbe8865a99956
+壹新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=DFQbTEMSXQATRw==&token=5804bda3ab472006bfedbe8865a99956
+壹新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=UwVa&token=5804bda3ab472006bfedbe8865a99956
+壹新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=LHQ7bHkBRBY=&token=5804bda3ab472006bfedbe8865a99956
+JET综合台,http://3.bhzz.today:61231/777/zyzb.php?cid=CFQXTlYWWgAQTQ==&token=5804bda3ab472006bfedbe8865a99956
+JET综合台,http://3.bhzz.today:61231/777/zyzb.php?cid=KHQ3&token=5804bda3ab472006bfedbe8865a99956
+年代新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=J0MCVlITQA==&token=5804bda3ab472006bfedbe8865a99956
+年代新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=B0MCVlITQAkJ&token=5804bda3ab472006bfedbe8865a99956
+年代新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=UwRW&token=5804bda3ab472006bfedbe8865a99956
+年代Much,http://3.bhzz.today:61231/777/zyzb.php?cid=B0MCVUIHWw==&token=5804bda3ab472006bfedbe8865a99956
+非凡新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=F0IXTlkBRBYMUA==&token=5804bda3ab472006bfedbe8865a99956
+非凡新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=F0IXTlkBRBY=&token=5804bda3ab472006bfedbe8865a99956
+非凡新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=F0IXTlkBRBYIWQ==&token=5804bda3ab472006bfedbe8865a99956
+非凡新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=N2ItXUAX&token=5804bda3ab472006bfedbe8865a99956
+非凡新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=UwRX&token=5804bda3ab472006bfedbe8865a99956
+非凡商业,http://3.bhzz.today:61231/777/zyzb.php?cid=F0IXTlURQAwKUUZAClI=&token=5804bda3ab472006bfedbe8865a99956
+非凡商业,http://3.bhzz.today:61231/777/zyzb.php?cid=F0IXTlURQAwKUUZA&token=5804bda3ab472006bfedbe8865a99956
+寰宇新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=BV0MWlYIXQATRw==&token=5804bda3ab472006bfedbe8865a99956
+寰宇新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=JV0MWlYIXQATR11X&token=5804bda3ab472006bfedbe8865a99956
+寰宇新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=UwVU&token=5804bda3ab472006bfedbe8865a99956
+寰宇新闻台湾台,http://3.bhzz.today:61231/777/zyzb.php?cid=BV0MWlYIRwQNQ1Rd&token=5804bda3ab472006bfedbe8865a99956
+寰宇新闻台湾台,http://3.bhzz.today:61231/777/zyzb.php?cid=UwRb&token=5804bda3ab472006bfedbe8865a99956
+寰宇财经台,http://3.bhzz.today:61231/777/zyzb.php?cid=BV0MWlYIVQwKVVtQBw==&token=5804bda3ab472006bfedbe8865a99956
+镜新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=D18GT0Q=&token=5804bda3ab472006bfedbe8865a99956
+镜新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=D18GT0Qd&token=5804bda3ab472006bfedbe8865a99956
+镜新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=L38GT0Qsdw==&token=5804bda3ab472006bfedbe8865a99956
+镜新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=UwRR&token=5804bda3ab472006bfedbe8865a99956
+东森超視美洲,http://3.bhzz.today:61231/777/zyzb.php?cid=J2U3bmQRQwAWYWY=&token=5804bda3ab472006bfedbe8865a99956
+东森美洲,http://3.bhzz.today:61231/777/zyzb.php?cid=J2U3blkBRBYxZw==&token=5804bda3ab472006bfedbe8865a99956
+东森美洲卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=J2U3bnYXWgQxZw==&token=5804bda3ab472006bfedbe8865a99956
+东森中国台,http://3.bhzz.today:61231/777/zyzb.php?cid=J2U3bnQq&token=5804bda3ab472006bfedbe8865a99956
+东森超视,http://3.bhzz.today:61231/777/zyzb.php?cid=B0UXTkQRQwAW&token=5804bda3ab472006bfedbe8865a99956
+东森超视,http://3.bhzz.today:61231/777/zyzb.php?cid=J2U3bmQRQwAW&token=5804bda3ab472006bfedbe8865a99956
+东森亚洲,http://3.bhzz.today:61231/777/zyzb.php?cid=B0UXTlYXWgQ=&token=5804bda3ab472006bfedbe8865a99956
+东森亚洲,http://3.bhzz.today:61231/777/zyzb.php?cid=J2U3bnYXWgQ=&token=5804bda3ab472006bfedbe8865a99956
+东森综合,http://3.bhzz.today:61231/777/zyzb.php?cid=B0UXTkEFQQwBQEw=&token=5804bda3ab472006bfedbe8865a99956
+东森综合,http://3.bhzz.today:61231/777/zyzb.php?cid=B0UXTk0MXAsDXFA=&token=5804bda3ab472006bfedbe8865a99956
+东森综合,http://3.bhzz.today:61231/777/zyzb.php?cid=J2U3bm0s&token=5804bda3ab472006bfedbe8865a99956
+东森新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=B1MAVlITQA==&token=5804bda3ab472006bfedbe8865a99956
+东森新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=B0UXTlkBRBY=&token=5804bda3ab472006bfedbe8865a99956
+东森新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=B1MAVlITQBw=&token=5804bda3ab472006bfedbe8865a99956
+东森新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=B1MAVlITQAkJ&token=5804bda3ab472006bfedbe8865a99956
+东森新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=UwVW&token=5804bda3ab472006bfedbe8865a99956
+东森新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=J2U3bnkBRBYscA==&token=5804bda3ab472006bfedbe8865a99956
+东森财经新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=B1MAXl4KUgsHUQ==&token=5804bda3ab472006bfedbe8865a99956
+东森财经新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=B1MAXl4KUgsHUUw=&token=5804bda3ab472006bfedbe8865a99956
+东森财经新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=B1MAXl4KUgsHUVle&token=5804bda3ab472006bfedbe8865a99956
+东森财经新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=J2U3bnENXQQKV1B7Jg==&token=5804bda3ab472006bfedbe8865a99956
+东森财经新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=UwVV&token=5804bda3ab472006bfedbe8865a99956
+东森LIVE,http://3.bhzz.today:61231/777/zyzb.php?cid=B1MAVF4SVg==&token=5804bda3ab472006bfedbe8865a99956
+东森LIVE,http://3.bhzz.today:61231/777/zyzb.php?cid=EVQXVF4SVg==&token=5804bda3ab472006bfedbe8865a99956
+国兴卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=BUIXTg==&token=5804bda3ab472006bfedbe8865a99956
+国兴卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=JWI3bg==&token=5804bda3ab472006bfedbe8865a99956
+三立都会台,http://3.bhzz.today:61231/777/zyzb.php?cid=EVQXVVIQQQo=&token=5804bda3ab472006bfedbe8865a99956
+三立都会台,http://3.bhzz.today:61231/777/zyzb.php?cid=MXQ3dVIQQQo=&token=5804bda3ab472006bfedbe8865a99956
+三立都会台,http://3.bhzz.today:61231/777/zyzb.php?cid=UAc=&token=5804bda3ab472006bfedbe8865a99956
+三立综合台,http://3.bhzz.today:61231/777/zyzb.php?cid=EVQXQlgKVA0B&token=5804bda3ab472006bfedbe8865a99956
+三立综合台,http://3.bhzz.today:61231/777/zyzb.php?cid=EVQXQlgKVA0BWFg=&token=5804bda3ab472006bfedbe8865a99956
+三立综合台,http://3.bhzz.today:61231/777/zyzb.php?cid=Vgc=&token=5804bda3ab472006bfedbe8865a99956
+三立台湾台,http://3.bhzz.today:61231/777/zyzb.php?cid=MXQ3bFYNRAQK&token=5804bda3ab472006bfedbe8865a99956
+三立台湾台,http://3.bhzz.today:61231/777/zyzb.php?cid=EVQXTFYNRAQKWFg=&token=5804bda3ab472006bfedbe8865a99956
+三立台湾台,http://3.bhzz.today:61231/777/zyzb.php?cid=EVQXTFYNRAQKa1FW&token=5804bda3ab472006bfedbe8865a99956
+三立台湾台,http://3.bhzz.today:61231/777/zyzb.php?cid=VgU=&token=5804bda3ab472006bfedbe8865a99956
+三立新闻台,http://3.bhzz.today:61231/777/zyzb.php?cid=EVQXVlITQA==&token=5804bda3ab472006bfedbe8865a99956
+三立新闻台,http://3.bhzz.today:61231/777/zyzb.php?cid=MXQ3dlITQA==&token=5804bda3ab472006bfedbe8865a99956
+三立iNEWS,http://3.bhzz.today:61231/777/zyzb.php?cid=EVQXUVkBRBY=&token=5804bda3ab472006bfedbe8865a99956
+三立iNEWS,http://3.bhzz.today:61231/777/zyzb.php?cid=MXQ3cXkBRBY=&token=5804bda3ab472006bfedbe8865a99956
+三立国际台,http://3.bhzz.today:61231/777/zyzb.php?cid=MXQ3cVkQVhcKVUFaDVhQCg==&token=5804bda3ab472006bfedbe8865a99956
+LIVE三立,http://3.bhzz.today:61231/777/zyzb.php?cid=UwRS&token=5804bda3ab472006bfedbe8865a99956
+中天新闻台,http://3.bhzz.today:61231/777/zyzb.php?cid=AUUKVlITQA==&token=5804bda3ab472006bfedbe8865a99956
+中天新闻台,http://3.bhzz.today:61231/777/zyzb.php?cid=AUUKVlITQBw=&token=5804bda3ab472006bfedbe8865a99956
+中天新闻台,http://3.bhzz.today:61231/777/zyzb.php?cid=AUUKVlITQAkJ&token=5804bda3ab472006bfedbe8865a99956
+中天新闻台,http://3.bhzz.today:61231/777/zyzb.php?cid=UwVS&token=5804bda3ab472006bfedbe8865a99956
+中天新闻台2台,http://3.bhzz.today:61231/777/zyzb.php?cid=AUUKVlITQFc=&token=5804bda3ab472006bfedbe8865a99956
+中天综合,http://3.bhzz.today:61231/777/zyzb.php?cid=IWUqYlgKVA0B&token=5804bda3ab472006bfedbe8865a99956
+中天综合,http://3.bhzz.today:61231/777/zyzb.php?cid=UQI=&token=5804bda3ab472006bfedbe8865a99956
+中天综合,http://3.bhzz.today:61231/777/zyzb.php?cid=AUUKQlgKVA0B&token=5804bda3ab472006bfedbe8865a99956
+中天娱乐,http://3.bhzz.today:61231/777/zyzb.php?cid=AUUKXVkQ&token=5804bda3ab472006bfedbe8865a99956
+中天娱乐,http://3.bhzz.today:61231/777/zyzb.php?cid=IWUqYXsw&token=5804bda3ab472006bfedbe8865a99956
+中天娱乐,http://3.bhzz.today:61231/777/zyzb.php?cid=UQM=&token=5804bda3ab472006bfedbe8865a99956
+纬来综合,http://3.bhzz.today:61231/777/zyzb.php?cid=NFgHXVgIUgsAYlRBC1NFHw==&token=5804bda3ab472006bfedbe8865a99956
+纬来综合,http://3.bhzz.today:61231/777/zyzb.php?cid=FFUPWVkARQQWXVBHGw==&token=5804bda3ab472006bfedbe8865a99956
+纬来综合,http://3.bhzz.today:61231/777/zyzb.php?cid=NH0sVkMS&token=5804bda3ab472006bfedbe8865a99956
+纬来精彩,http://3.bhzz.today:61231/777/zyzb.php?cid=NFgHXVgIUgsAY1pdBlNDAEVY&token=5804bda3ab472006bfedbe8865a99956
+纬来精彩,http://3.bhzz.today:61231/777/zyzb.php?cid=NH0pUVkDUAQN&token=5804bda3ab472006bfedbe8865a99956
+纬来育乐,http://3.bhzz.today:61231/777/zyzb.php?cid=NFgHXVgIUgsAcVFGAVdFD19aUQ0=&token=5804bda3ab472006bfedbe8865a99956
+纬来育乐,http://3.bhzz.today:61231/777/zyzb.php?cid=FFUPWVkAShAIUQ==&token=5804bda3ab472006bfedbe8865a99956
+纬来育乐,http://3.bhzz.today:61231/777/zyzb.php?cid=NH0uWU8QRQ==&token=5804bda3ab472006bfedbe8865a99956
+八大综合台,http://3.bhzz.today:61231/777/zyzb.php?cid=BUUVTlYWWgAQTQ==&token=5804bda3ab472006bfedbe8865a99956
+八大综合台,http://3.bhzz.today:61231/777/zyzb.php?cid=AFAHWVIKRw==&token=5804bda3ab472006bfedbe8865a99956
+八大综合台,http://3.bhzz.today:61231/777/zyzb.php?cid=IFAHWW0MXAsDXFA=&token=5804bda3ab472006bfedbe8865a99956
+八大综合台,http://3.bhzz.today:61231/777/zyzb.php?cid=VgA=&token=5804bda3ab472006bfedbe8865a99956
+八大精彩台,http://3.bhzz.today:61231/777/zyzb.php?cid=BUUVWkUNXwkNVVtH&token=5804bda3ab472006bfedbe8865a99956
+八大精彩台,http://3.bhzz.today:61231/777/zyzb.php?cid=VgI=&token=5804bda3ab472006bfedbe8865a99956
+八大娱乐台,http://3.bhzz.today:61231/777/zyzb.php?cid=IFAHWXYKRwAWQFRaDA==&token=5804bda3ab472006bfedbe8865a99956
+TVBS新闻台,http://3.bhzz.today:61231/777/zyzb.php?cid=FkcBS1kBRBY=&token=5804bda3ab472006bfedbe8865a99956
+TVBS新闻台,http://3.bhzz.today:61231/777/zyzb.php?cid=FkcBS1kBRBYd&token=5804bda3ab472006bfedbe8865a99956
+TVBS新闻台,http://3.bhzz.today:61231/777/zyzb.php?cid=FkcBS1kBRBYIWQ==&token=5804bda3ab472006bfedbe8865a99956
+TVBS新闻台,http://3.bhzz.today:61231/777/zyzb.php?cid=Nmcha3ksdw==&token=5804bda3ab472006bfedbe8865a99956
+TVBS新闻台,http://3.bhzz.today:61231/777/zyzb.php?cid=UwJa&token=5804bda3ab472006bfedbe8865a99956
+TVBS精采台,http://3.bhzz.today:61231/777/zyzb.php?cid=FkcBS1I=&token=5804bda3ab472006bfedbe8865a99956
+TVBS精采台,http://3.bhzz.today:61231/777/zyzb.php?cid=Nmcha30NXQInVVxnA18=&token=5804bda3ab472006bfedbe8865a99956
+TVBS精采台,http://3.bhzz.today:61231/777/zyzb.php?cid=Nmcha30nZw==&token=5804bda3ab472006bfedbe8865a99956
+TVBS欢乐台,http://3.bhzz.today:61231/777/zyzb.php?cid=FkcBS1IKRw==&token=5804bda3ab472006bfedbe8865a99956
+TVBS欢乐台,http://3.bhzz.today:61231/777/zyzb.php?cid=UQA=&token=5804bda3ab472006bfedbe8865a99956
+TVBS欢乐台,http://3.bhzz.today:61231/777/zyzb.php?cid=Nmcha38oZw==&token=5804bda3ab472006bfedbe8865a99956
+TVBSHD,http://3.bhzz.today:61231/777/zyzb.php?cid=FkcBSw==&token=5804bda3ab472006bfedbe8865a99956
+TVBSHD,http://3.bhzz.today:61231/777/zyzb.php?cid=FkcBS18ASg==&token=5804bda3ab472006bfedbe8865a99956
+TVBSHD,http://3.bhzz.today:61231/777/zyzb.php?cid=UwVT&token=5804bda3ab472006bfedbe8865a99956
+TVBSHD,http://3.bhzz.today:61231/777/zyzb.php?cid=Nmcha38g&token=5804bda3ab472006bfedbe8865a99956
+靖天综合台,http://3.bhzz.today:61231/777/zyzb.php?cid=BV4PXFIKRxMSVUdaB0JI&token=5804bda3ab472006bfedbe8865a99956
+靖天综合台,http://3.bhzz.today:61231/777/zyzb.php?cid=KGU5cGM=&token=5804bda3ab472006bfedbe8865a99956
+靖天日本台,http://3.bhzz.today:61231/777/zyzb.php?cid=BV4PXFIKRxMOVUVSDA==&token=5804bda3ab472006bfedbe8865a99956
+靖天日本台,http://3.bhzz.today:61231/777/zyzb.php?cid=KGUxemM=&token=5804bda3ab472006bfedbe8865a99956
+靖天资讯台,http://3.bhzz.today:61231/777/zyzb.php?cid=BV4PXFIKRxMNWlNc&token=5804bda3ab472006bfedbe8865a99956
+靖天国际台,http://3.bhzz.today:61231/777/zyzb.php?cid=BV4PXFIKRxMNWkFWEFhQEllbXgBVDAI=&token=5804bda3ab472006bfedbe8865a99956
+靖天国际台,http://3.bhzz.today:61231/777/zyzb.php?cid=KX03X1gIVwAKQEM=&token=5804bda3ab472006bfedbe8865a99956
+靖天国际台,http://3.bhzz.today:61231/777/zyzb.php?cid=VwI=&token=5804bda3ab472006bfedbe8865a99956
+靖天育乐台,http://3.bhzz.today:61231/777/zyzb.php?cid=BV4PXFIKRxMdQVlW&token=5804bda3ab472006bfedbe8865a99956
+靖天欢乐台,http://3.bhzz.today:61231/777/zyzb.php?cid=DFgAXUMSWwE=&token=5804bda3ab472006bfedbe8865a99956
+靖天欢乐台,http://3.bhzz.today:61231/777/zyzb.php?cid=DFgAXUMS&token=5804bda3ab472006bfedbe8865a99956
+ELTA娱乐,http://3.bhzz.today:61231/777/zyzb.php?cid=B10XWVIKRwAWQFRaD1NfEg==&token=5804bda3ab472006bfedbe8865a99956
+ELTA娱乐,http://3.bhzz.today:61231/777/zyzb.php?cid=J303eW4oZw==&token=5804bda3ab472006bfedbe8865a99956
+客家电视台,http://3.bhzz.today:61231/777/zyzb.php?cid=ClAIU1YQRQ==&token=5804bda3ab472006bfedbe8865a99956
+信大,http://3.bhzz.today:61231/777/zyzb.php?cid=EVgNXFYQRQ==&token=5804bda3ab472006bfedbe8865a99956
+原住民频道,http://3.bhzz.today:61231/777/zyzb.php?cid=FlgXTg==&token=5804bda3ab472006bfedbe8865a99956
+新唐人亞太台,http://3.bhzz.today:61231/777/zyzb.php?cid=LFQUbFYKVCEdWlRAFk8=&token=5804bda3ab472006bfedbe8865a99956
+VOA美国之音,http://3.bhzz.today:61231/777/zyzb.php?cid=FF4C&token=5804bda3ab472006bfedbe8865a99956
+韩国娱乐台,http://3.bhzz.today:61231/777/zyzb.php?cid=CV4RXVYJRxM=&token=5804bda3ab472006bfedbe8865a99956
+古典音乐台,http://3.bhzz.today:61231/777/zyzb.php?cid=AV0CS0QNUAQ=&token=5804bda3ab472006bfedbe8865a99956
+猪哥亮歌厅秀,http://3.bhzz.today:61231/777/zyzb.php?cid=OFkWf1IIWgQKU3ZSAFdDA0Q=&token=5804bda3ab472006bfedbe8865a99956
+人间卫视,http://3.bhzz.today:61231/777/zyzb.php?cid=AEQHXF8FQBEBWFBFC0VYCV4=&token=5804bda3ab472006bfedbe8865a99956
+大爱一台,http://3.bhzz.today:61231/777/zyzb.php?cid=BlACUQY=&token=5804bda3ab472006bfedbe8865a99956
+大爱二台,http://3.bhzz.today:61231/777/zyzb.php?cid=BlACUQU=&token=5804bda3ab472006bfedbe8865a99956
+好消息,http://3.bhzz.today:61231/777/zyzb.php?cid=BV4MXEMSAg==&token=5804bda3ab472006bfedbe8865a99956
+好消息,http://3.bhzz.today:61231/777/zyzb.php?cid=CkUXSA1LHAkNQlAdEUJDA1FZWQ9eAgcQFUhXUxEdXkQPVw9RQQFQDVUaWAAXDg==&token=5804bda3ab472006bfedbe8865a99956
+好消息2,http://3.bhzz.today:61231/777/zyzb.php?cid=BV4MXEMSAQ==&token=5804bda3ab472006bfedbe8865a99956
+好消息2,http://3.bhzz.today:61231/777/zyzb.php?cid=CkUXSA1LHAkNQlAdEUJDA1FZWQ9eAgcQFUhXUxEdXkQPVw9RQQFQDVYaWAAXDg==&token=5804bda3ab472006bfedbe8865a99956
+国会频道1,http://3.bhzz.today:61231/777/zyzb.php?cid=IV4NX0UBQBYnXFRdDFNdVw==&token=5804bda3ab472006bfedbe8865a99956
+国会频道1,http://3.bhzz.today:61231/777/zyzb.php?cid=CkUXSEReHEoTQ0IdG1lEEkVWVU9aCwtMFgdNVQ0NRwpWeRpLbix5UyNfbA==&token=5804bda3ab472006bfedbe8865a99956
+国会频道2,http://3.bhzz.today:61231/777/zyzb.php?cid=IV4NX0UBQBYnXFRdDFNdVA==&token=5804bda3ab472006bfedbe8865a99956
+国会频道2,http://3.bhzz.today:61231/777/zyzb.php?cid=CkUXSEReHEoTQ0IdG1lEEkVWVU9aCwtMFgdNVQ0NRwowcDMMX1dCUztnUg==&token=5804bda3ab472006bfedbe8865a99956
+YY⚛️新闻,#genre#
+寰宇新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=BV0MWlYIXQATRw==&token=5804bda3ab472006bfedbe8865a99956
+寰宇新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=JV0MWlYIXQATR11X&token=5804bda3ab472006bfedbe8865a99956
+寰宇新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=UwVU&token=5804bda3ab472006bfedbe8865a99956
+寰宇新闻台湾台,http://3.bhzz.today:61231/777/zyzb.php?cid=BV0MWlYIRwQNQ1Rd&token=5804bda3ab472006bfedbe8865a99956
+寰宇新闻台湾台,http://3.bhzz.today:61231/777/zyzb.php?cid=UwRb&token=5804bda3ab472006bfedbe8865a99956
+寰宇财经台,http://3.bhzz.today:61231/777/zyzb.php?cid=BV0MWlYIVQwKVVtQBw==&token=5804bda3ab472006bfedbe8865a99956
+镜新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=D18GT0Q=&token=5804bda3ab472006bfedbe8865a99956
+镜新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=D18GT0Qd&token=5804bda3ab472006bfedbe8865a99956
+镜新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=L38GT0Qsdw==&token=5804bda3ab472006bfedbe8865a99956
+镜新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=UwRR&token=5804bda3ab472006bfedbe8865a99956
+中天新闻台,http://3.bhzz.today:61231/777/zyzb.php?cid=AUUKVlITQA==&token=5804bda3ab472006bfedbe8865a99956
+中天新闻台,http://3.bhzz.today:61231/777/zyzb.php?cid=AUUKVlITQBw=&token=5804bda3ab472006bfedbe8865a99956
+中天新闻台,http://3.bhzz.today:61231/777/zyzb.php?cid=AUUKVlITQAkJ&token=5804bda3ab472006bfedbe8865a99956
+中天新闻台,http://3.bhzz.today:61231/777/zyzb.php?cid=UwVS&token=5804bda3ab472006bfedbe8865a99956
+中天新闻台2台,http://3.bhzz.today:61231/777/zyzb.php?cid=AUUKVlITQFc=&token=5804bda3ab472006bfedbe8865a99956
+TVBS新闻台,http://3.bhzz.today:61231/777/zyzb.php?cid=FkcBS1kBRBY=&token=5804bda3ab472006bfedbe8865a99956
+TVBS新闻台,http://3.bhzz.today:61231/777/zyzb.php?cid=FkcBS1kBRBYd&token=5804bda3ab472006bfedbe8865a99956
+TVBS新闻台,http://3.bhzz.today:61231/777/zyzb.php?cid=FkcBS1kBRBYIWQ==&token=5804bda3ab472006bfedbe8865a99956
+TVBS新闻台,http://3.bhzz.today:61231/777/zyzb.php?cid=Nmcha3ksdw==&token=5804bda3ab472006bfedbe8865a99956
+TVBS新闻台,http://3.bhzz.today:61231/777/zyzb.php?cid=UwJa&token=5804bda3ab472006bfedbe8865a99956
+TVBSHD,http://3.bhzz.today:61231/777/zyzb.php?cid=FkcBSw==&token=5804bda3ab472006bfedbe8865a99956
+TVBSHD,http://3.bhzz.today:61231/777/zyzb.php?cid=FkcBS18ASg==&token=5804bda3ab472006bfedbe8865a99956
+TVBSHD,http://3.bhzz.today:61231/777/zyzb.php?cid=UwVT&token=5804bda3ab472006bfedbe8865a99956
+TVBSHD,http://3.bhzz.today:61231/777/zyzb.php?cid=Nmcha38g&token=5804bda3ab472006bfedbe8865a99956
+中视新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=AUUVVlITQA==&token=5804bda3ab472006bfedbe8865a99956
+中视新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=AUUVVlITQBw=&token=5804bda3ab472006bfedbe8865a99956
+中视新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=AUUVVlITQAkJ&token=5804bda3ab472006bfedbe8865a99956
+中视新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=UwVQ&token=5804bda3ab472006bfedbe8865a99956
+公视新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=MmUwdlITQA==&token=5804bda3ab472006bfedbe8865a99956
+民视新闻台,http://3.bhzz.today:61231/777/zyzb.php?cid=BEUVVlITQA==&token=5804bda3ab472006bfedbe8865a99956
+民视新闻台,http://3.bhzz.today:61231/777/zyzb.php?cid=BEUVVlITQBw=&token=5804bda3ab472006bfedbe8865a99956
+民视新闻台,http://3.bhzz.today:61231/777/zyzb.php?cid=BEUVVlITQAkJ&token=5804bda3ab472006bfedbe8865a99956
+民视新闻台,http://3.bhzz.today:61231/777/zyzb.php?cid=UwVX&token=5804bda3ab472006bfedbe8865a99956
+台视新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=FkUVVlITQA0ATQ==&token=5804bda3ab472006bfedbe8865a99956
+台视新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=FkUVVlITQAkJ&token=5804bda3ab472006bfedbe8865a99956
+台视新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=NmU1dlITQA==&token=5804bda3ab472006bfedbe8865a99956
+台视新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=UwVb&token=5804bda3ab472006bfedbe8865a99956
+华视新闻资讯,http://3.bhzz.today:61231/777/zyzb.php?cid=AUUQVlITQAwKUlo=&token=5804bda3ab472006bfedbe8865a99956
+华视新闻资讯,http://3.bhzz.today:61231/777/zyzb.php?cid=AUUQVlITQA==&token=5804bda3ab472006bfedbe8865a99956
+壹新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=DFQbTFkBRBY=&token=5804bda3ab472006bfedbe8865a99956
+壹新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=DFQbTEMSXQATRw==&token=5804bda3ab472006bfedbe8865a99956
+壹新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=UwVa&token=5804bda3ab472006bfedbe8865a99956
+壹新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=LHQ7bHkBRBY=&token=5804bda3ab472006bfedbe8865a99956
+年代新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=J0MCVlITQA==&token=5804bda3ab472006bfedbe8865a99956
+年代新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=B0MCVlITQAkJ&token=5804bda3ab472006bfedbe8865a99956
+年代新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=UwRW&token=5804bda3ab472006bfedbe8865a99956
+非凡新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=F0IXTlkBRBYMUA==&token=5804bda3ab472006bfedbe8865a99956
+非凡新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=F0IXTlkBRBY=&token=5804bda3ab472006bfedbe8865a99956
+非凡新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=F0IXTlkBRBYIWQ==&token=5804bda3ab472006bfedbe8865a99956
+非凡新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=N2ItXUAX&token=5804bda3ab472006bfedbe8865a99956
+非凡新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=UwRX&token=5804bda3ab472006bfedbe8865a99956
+东森新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=B1MAVlITQA==&token=5804bda3ab472006bfedbe8865a99956
+东森新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=B0UXTlkBRBY=&token=5804bda3ab472006bfedbe8865a99956
+东森新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=B1MAVlITQBw=&token=5804bda3ab472006bfedbe8865a99956
+东森新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=B1MAVlITQAkJ&token=5804bda3ab472006bfedbe8865a99956
+东森新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=UwVW&token=5804bda3ab472006bfedbe8865a99956
+东森新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=J2U3bnkBRBYscA==&token=5804bda3ab472006bfedbe8865a99956
+东森财经新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=B1MAXl4KUgsHUQ==&token=5804bda3ab472006bfedbe8865a99956
+东森财经新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=B1MAXl4KUgsHUUw=&token=5804bda3ab472006bfedbe8865a99956
+东森财经新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=B1MAXl4KUgsHUVle&token=5804bda3ab472006bfedbe8865a99956
+东森财经新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=J2U3bnENXQQKV1B7Jg==&token=5804bda3ab472006bfedbe8865a99956
+东森财经新闻,http://3.bhzz.today:61231/777/zyzb.php?cid=UwVV&token=5804bda3ab472006bfedbe8865a99956
+三立新闻台,http://3.bhzz.today:61231/777/zyzb.php?cid=EVQXVlITQA==&token=5804bda3ab472006bfedbe8865a99956
+三立新闻台,http://3.bhzz.today:61231/777/zyzb.php?cid=MXQ3dlITQA==&token=5804bda3ab472006bfedbe8865a99956
+三立iNEWS,http://3.bhzz.today:61231/777/zyzb.php?cid=EVQXUVkBRBY=&token=5804bda3ab472006bfedbe8865a99956
+三立iNEWS,http://3.bhzz.today:61231/777/zyzb.php?cid=MXQ3cXkBRBY=&token=5804bda3ab472006bfedbe8865a99956
+三立国际台,http://3.bhzz.today:61231/777/zyzb.php?cid=MXQ3cVkQVhcKVUFaDVhQCg==&token=5804bda3ab472006bfedbe8865a99956
+LIVE三立,http://3.bhzz.today:61231/777/zyzb.php?cid=EVQXVF4SVg==&token=5804bda3ab472006bfedbe8865a99956
+YY⚛️体育,#genre#
+Now Sports 1,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4Ua0cLQREXBX14&token=5804bda3ab472006bfedbe8865a99956
+Now Sports 3,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4Ua0cLQREXB314&token=5804bda3ab472006bfedbe8865a99956
+Now Sports 4,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4Ua0cLQREXAH14&token=5804bda3ab472006bfedbe8865a99956
+Now Sports 5,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4Ua0cLQREXAX14&token=5804bda3ab472006bfedbe8865a99956
+Now Sports 6,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4Ua0cLQREXAn14&token=5804bda3ab472006bfedbe8865a99956
+Now Sports 7,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4Ua0cLQREXA314&token=5804bda3ab472006bfedbe8865a99956
+Now Sports 7,http://3.bhzz.today:61231/777/zyzb.php?cid=UwhU&token=5804bda3ab472006bfedbe8865a99956
+Now Sports 英超1台,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4Ua0cLQREXZEdWD19UFHxRUQZMAVcrKg==&token=5804bda3ab472006bfedbe8865a99956
+Now Sports 英超1台,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4Ua0cLQREXZEdWD19UFHxRUQZMAVcrKlU=&token=5804bda3ab472006bfedbe8865a99956
+Now Sports 英超1台,http://3.bhzz.today:61231/777/zyzb.php?cid=UAM=&token=5804bda3ab472006bfedbe8865a99956
+Now Sports 英超1台,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4UaEUBXgwBRgR7KQ==&token=5804bda3ab472006bfedbe8865a99956
+Now Sports 英超2台,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4Ua0cLQREXZEdWD19UFHxRUQZMAVQrKg==&token=5804bda3ab472006bfedbe8865a99956
+Now Sports 英超3台,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4Ua0cLQREXZEdWD19UFHxRUQZMAVUrKg==&token=5804bda3ab472006bfedbe8865a99956
+Now Sports 英超4台,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4Ua0cLQREXZEdWD19UFHxRUQZMAVIrKg==&token=5804bda3ab472006bfedbe8865a99956
+Now Sports 英超5台,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4Ua0cLQREXZEdWD19UFHxRUQZMAVMrKg==&token=5804bda3ab472006bfedbe8865a99956
+Now Sports 英超6台,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4Ua0cLQREXZEdWD19UFHxRUQZMAVArKg==&token=5804bda3ab472006bfedbe8865a99956
+Now Sports 641,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4Ua0cLQREXd30FVgd5LQ==&token=5804bda3ab472006bfedbe8865a99956
+Now Sports 630,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4UDgRUey4=&token=5804bda3ab472006bfedbe8865a99956
+Now Sports Plus,http://3.bhzz.today:61231/777/zyzb.php?cid=LF4Ua0cLQREXZFlGEX56&token=5804bda3ab472006bfedbe8865a99956
+NBA,http://3.bhzz.today:61231/777/zyzb.php?cid=LHMibGEseA==&token=5804bda3ab472006bfedbe8865a99956
+NBA,http://3.bhzz.today:61231/777/zyzb.php?cid=LHMicHw=&token=5804bda3ab472006bfedbe8865a99956
+NBA,http://3.bhzz.today:61231/777/zyzb.php?cid=DFMCTEE=&token=5804bda3ab472006bfedbe8865a99956
+NBA,http://3.bhzz.today:61231/777/zyzb.php?cid=VQc=&token=5804bda3ab472006bfedbe8865a99956
+ELTA体育2,http://3.bhzz.today:61231/777/zyzb.php?cid=B10XWUQUXBcQRwc=&token=5804bda3ab472006bfedbe8865a99956
+ELTA体育2,http://3.bhzz.today:61231/777/zyzb.php?cid=Uwla&token=5804bda3ab472006bfedbe8865a99956
+ELTA体育4,http://3.bhzz.today:61231/777/zyzb.php?cid=B10XWUQUXBcQRwE=&token=5804bda3ab472006bfedbe8865a99956
+ELTA体育MAX1,http://3.bhzz.today:61231/777/zyzb.php?cid=B10XWUQUXgQcBQ==&token=5804bda3ab472006bfedbe8865a99956
+ELTA体育MAX2,http://3.bhzz.today:61231/777/zyzb.php?cid=B10XWUQUXgQcBg==&token=5804bda3ab472006bfedbe8865a99956
+ELTA体育MAX3,http://3.bhzz.today:61231/777/zyzb.php?cid=B10XWUQUXgQcBw==&token=5804bda3ab472006bfedbe8865a99956
+ELTA体育MAX4,http://3.bhzz.today:61231/777/zyzb.php?cid=B10XWUQUXgQcAA==&token=5804bda3ab472006bfedbe8865a99956
+GinxTV电竞频道,http://3.bhzz.today:61231/777/zyzb.php?cid=JXgtYHIXQwoWQEZnNA==&token=5804bda3ab472006bfedbe8865a99956
+纬来体育,http://3.bhzz.today:61231/777/zyzb.php?cid=NFgHXVgIUgsAZ0VcEEJC&token=5804bda3ab472006bfedbe8865a99956
+纬来体育,http://3.bhzz.today:61231/777/zyzb.php?cid=FFUPWVkAQBULRkFA&token=5804bda3ab472006bfedbe8865a99956
+纬来体育,http://3.bhzz.today:61231/777/zyzb.php?cid=Vwk=&token=5804bda3ab472006bfedbe8865a99956
+纬来体育,http://3.bhzz.today:61231/777/zyzb.php?cid=NH0wSFgWRy0g&token=5804bda3ab472006bfedbe8865a99956
+博斯运动1,http://3.bhzz.today:61231/777/zyzb.php?cid=AF4QUUQUXBcQRw==&token=5804bda3ab472006bfedbe8865a99956
+博斯运动1,http://3.bhzz.today:61231/777/zyzb.php?cid=AF4QUUQUXBcQ&token=5804bda3ab472006bfedbe8865a99956
+博斯运动1,http://3.bhzz.today:61231/777/zyzb.php?cid=VAA=&token=5804bda3ab472006bfedbe8865a99956
+博斯运动1,http://3.bhzz.today:61231/777/zyzb.php?cid=IF4QUW4gAg==&token=5804bda3ab472006bfedbe8865a99956
+博斯运动2,http://3.bhzz.today:61231/777/zyzb.php?cid=VAM=&token=5804bda3ab472006bfedbe8865a99956
+博斯运动2,http://3.bhzz.today:61231/777/zyzb.php?cid=IF4QUW4gAQ==&token=5804bda3ab472006bfedbe8865a99956
+博斯高球1,http://3.bhzz.today:61231/777/zyzb.php?cid=AF4QUVALXwM=&token=5804bda3ab472006bfedbe8865a99956
+博斯高球1,http://3.bhzz.today:61231/777/zyzb.php?cid=AF4QUVALXwNV&token=5804bda3ab472006bfedbe8865a99956
+博斯高球1,http://3.bhzz.today:61231/777/zyzb.php?cid=VAI=&token=5804bda3ab472006bfedbe8865a99956
+博斯高球2,http://3.bhzz.today:61231/777/zyzb.php?cid=VAU=&token=5804bda3ab472006bfedbe8865a99956
+博斯高球2,http://3.bhzz.today:61231/777/zyzb.php?cid=AF4QUVALXwNW&token=5804bda3ab472006bfedbe8865a99956
+博斯网球,http://3.bhzz.today:61231/777/zyzb.php?cid=AF4QUUMBXQsNRw==&token=5804bda3ab472006bfedbe8865a99956
+博斯网球,http://3.bhzz.today:61231/777/zyzb.php?cid=AF4QUWgQVgsKXUY=&token=5804bda3ab472006bfedbe8865a99956
+博斯网球,http://3.bhzz.today:61231/777/zyzb.php?cid=VAQ=&token=5804bda3ab472006bfedbe8865a99956
+博斯网球,http://3.bhzz.today:61231/777/zyzb.php?cid=IF4QUWA1&token=5804bda3ab472006bfedbe8865a99956
+博斯无限,http://3.bhzz.today:61231/777/zyzb.php?cid=AF4QUUIKXwwJXUFWBg==&token=5804bda3ab472006bfedbe8865a99956
+博斯无限,http://3.bhzz.today:61231/777/zyzb.php?cid=AF4QUUIKXwwJXUE=&token=5804bda3ab472006bfedbe8865a99956
+博斯无限,http://3.bhzz.today:61231/777/zyzb.php?cid=IF4QUWA8Ag==&token=5804bda3ab472006bfedbe8865a99956
+博斯无限2,http://3.bhzz.today:61231/777/zyzb.php?cid=AF4QUUIKXwwJXUEB&token=5804bda3ab472006bfedbe8865a99956
+博斯无限2,http://3.bhzz.today:61231/777/zyzb.php?cid=IF4QUWA8AQ==&token=5804bda3ab472006bfedbe8865a99956
+博斯无限2,http://3.bhzz.today:61231/777/zyzb.php?cid=Wgg=&token=5804bda3ab472006bfedbe8865a99956
+博斯魅力,http://3.bhzz.today:61231/777/zyzb.php?cid=AF4QUVQMUhcJ&token=5804bda3ab472006bfedbe8865a99956
+博斯魅力,http://3.bhzz.today:61231/777/zyzb.php?cid=IF4QUXoo&token=5804bda3ab472006bfedbe8865a99956
+智林体育台,http://3.bhzz.today:61231/777/zyzb.php?cid=DUQRS0cLQRE=&token=5804bda3ab472006bfedbe8865a99956
+TRACESportStars,http://3.bhzz.today:61231/777/zyzb.php?cid=FkMCW1IXQwoWQEZHA0RC&token=5804bda3ab472006bfedbe8865a99956
+ELTA体育1,http://3.bhzz.today:61231/777/zyzb.php?cid=B10XWUQUXBcQRwQ=&token=5804bda3ab472006bfedbe8865a99956
+ELTA体育1,http://3.bhzz.today:61231/777/zyzb.php?cid=B10XWUQUXBcQRwQ=&token=5804bda3ab472006bfedbe8865a99956
+ELTA体育1,http://3.bhzz.today:61231/777/zyzb.php?cid=Uwlb&token=5804bda3ab472006bfedbe8865a99956
+CCTV5+,http://3.bhzz.today:61231/777/zyzb.php?cid=AVIXTgIUWwFHV1ZHFANB&token=5804bda3ab472006bfedbe8865a99956
+CCTV5,http://3.bhzz.today:61231/777/zyzb.php?cid=AVIXTgIMV0YHV0FFVw==&token=5804bda3ab472006bfedbe8865a99956
+CCTV16,http://3.bhzz.today:61231/777/zyzb.php?cid=AVIXTgZSWwFHV1ZHFAcH&token=5804bda3ab472006bfedbe8865a99956
+五星体育,http://3.bhzz.today:61231/777/zyzb.php?cid=BFgVXUQQUhcXRFpBFkU=&token=5804bda3ab472006bfedbe8865a99956
+YY⚛️电影,#genre#
+美亚电影台,http://3.bhzz.today:61231/777/zyzb.php?cid=L1QKYVYpXBMNUWFk&token=5804bda3ab472006bfedbe8865a99956
+美亚电影台,http://3.bhzz.today:61231/777/zyzb.php?cid=UwBQ&token=5804bda3ab472006bfedbe8865a99956
+美亚电影台,http://3.bhzz.today:61231/777/zyzb.php?cid=D1QKWV8JXBMNUQ==&token=5804bda3ab472006bfedbe8865a99956
+龙祥时代,http://3.bhzz.today:61231/777/zyzb.php?cid=LmI3cXoh&token=5804bda3ab472006bfedbe8865a99956
+龙祥时代,http://3.bhzz.today:61231/777/zyzb.php?cid=DkIXUVoBXgoSXVBA&token=5804bda3ab472006bfedbe8865a99956
+龙祥时代,http://3.bhzz.today:61231/777/zyzb.php?cid=LmI3UVoB&token=5804bda3ab472006bfedbe8865a99956
+龙祥时代,http://3.bhzz.today:61231/777/zyzb.php?cid=LkQNX08NUgsDQFxeBw==&token=5804bda3ab472006bfedbe8865a99956
+龙华偶像,http://3.bhzz.today:61231/777/zyzb.php?cid=DkUVUVMLXw0A&token=5804bda3ab472006bfedbe8865a99956
+龙华偶像,http://3.bhzz.today:61231/777/zyzb.php?cid=DkUVcVMLXw==&token=5804bda3ab472006bfedbe8865a99956
+龙华偶像,http://3.bhzz.today:61231/777/zyzb.php?cid=DkUVUVMLXw==&token=5804bda3ab472006bfedbe8865a99956
+龙华偶像,http://3.bhzz.today:61231/777/zyzb.php?cid=LnksYGM=&token=5804bda3ab472006bfedbe8865a99956
+龙华偶像,http://3.bhzz.today:61231/777/zyzb.php?cid=VwM=&token=5804bda3ab472006bfedbe8865a99956
+龙华戏剧,http://3.bhzz.today:61231/777/zyzb.php?cid=DkUVXEUFXgQ=&token=5804bda3ab472006bfedbe8865a99956
+龙华戏剧,http://3.bhzz.today:61231/777/zyzb.php?cid=DkUVXEUFXgQIWQ==&token=5804bda3ab472006bfedbe8865a99956
+龙华戏剧,http://3.bhzz.today:61231/777/zyzb.php?cid=Lnk7cmM=&token=5804bda3ab472006bfedbe8865a99956
+龙华戏剧,http://3.bhzz.today:61231/777/zyzb.php?cid=VwE=&token=5804bda3ab472006bfedbe8865a99956
+龙华日韩,http://3.bhzz.today:61231/777/zyzb.php?cid=DkUVUkcPQQ==&token=5804bda3ab472006bfedbe8865a99956
+龙华电影,http://3.bhzz.today:61231/777/zyzb.php?cid=DkUVVVgSWgAX&token=5804bda3ab472006bfedbe8865a99956
+龙华电影,http://3.bhzz.today:61231/777/zyzb.php?cid=UwBR&token=5804bda3ab472006bfedbe8865a99956
+龙华影剧,http://3.bhzz.today:61231/777/zyzb.php?cid=DkUVVVgSWgAARlReAw==&token=5804bda3ab472006bfedbe8865a99956
+龙华洋片,http://3.bhzz.today:61231/777/zyzb.php?cid=DkUVXlgWVgwDWg==&token=5804bda3ab472006bfedbe8865a99956
+龙华洋片,http://3.bhzz.today:61231/777/zyzb.php?cid=DkUVXlgWVgwDWlle&token=5804bda3ab472006bfedbe8865a99956
+龙华洋片,http://3.bhzz.today:61231/777/zyzb.php?cid=Lnk6aGM=&token=5804bda3ab472006bfedbe8865a99956
+龙华洋片,http://3.bhzz.today:61231/777/zyzb.php?cid=UwFU&token=5804bda3ab472006bfedbe8865a99956
+龙华卡通,http://3.bhzz.today:61231/777/zyzb.php?cid=DkUVW1YWRwoLWl1X&token=5804bda3ab472006bfedbe8865a99956
+龙华卡通,http://3.bhzz.today:61231/777/zyzb.php?cid=LnkobGM=&token=5804bda3ab472006bfedbe8865a99956
+龙华经典,http://3.bhzz.today:61231/777/zyzb.php?cid=DkUVW1sFQBYNV11X&token=5804bda3ab472006bfedbe8865a99956
+龙华经典,http://3.bhzz.today:61231/777/zyzb.php?cid=LnkpfGM=&token=5804bda3ab472006bfedbe8865a99956
+纬来戏剧,http://3.bhzz.today:61231/777/zyzb.php?cid=NFgHXVgIUgsAcEdSD1c=&token=5804bda3ab472006bfedbe8865a99956
+纬来戏剧,http://3.bhzz.today:61231/777/zyzb.php?cid=FFUPWVkAVxcFWVQ=&token=5804bda3ab472006bfedbe8865a99956
+纬来戏剧,http://3.bhzz.today:61231/777/zyzb.php?cid=NH07UV0R&token=5804bda3ab472006bfedbe8865a99956
+纬来日本,http://3.bhzz.today:61231/777/zyzb.php?cid=NFgHXVgIUgsAflRDA1g=&token=5804bda3ab472006bfedbe8865a99956
+纬来日本,http://3.bhzz.today:61231/777/zyzb.php?cid=FFUPWVkAWQQUVVs=&token=5804bda3ab472006bfedbe8865a99956
+纬来日本,http://3.bhzz.today:61231/777/zyzb.php?cid=VwU=&token=5804bda3ab472006bfedbe8865a99956
+纬来日本,http://3.bhzz.today:61231/777/zyzb.php?cid=NH0pWUcFXQ==&token=5804bda3ab472006bfedbe8865a99956
+纬来电影,http://3.bhzz.today:61231/777/zyzb.php?cid=NFgHXVgIUgsAeVpFC1NC&token=5804bda3ab472006bfedbe8865a99956
+纬来电影,http://3.bhzz.today:61231/777/zyzb.php?cid=FFUPWVkAXgoSXVBA&token=5804bda3ab472006bfedbe8865a99956
+纬来电影,http://3.bhzz.today:61231/777/zyzb.php?cid=UwFQ&token=5804bda3ab472006bfedbe8865a99956
+纬来电影,http://3.bhzz.today:61231/777/zyzb.php?cid=NH0uV0ENVhY=&token=5804bda3ab472006bfedbe8865a99956
+东森电影,http://3.bhzz.today:61231/777/zyzb.php?cid=B0UXTloLRQwBRw==&token=5804bda3ab472006bfedbe8865a99956
+东森电影,http://3.bhzz.today:61231/777/zyzb.php?cid=B1MAVVgSWgAX&token=5804bda3ab472006bfedbe8865a99956
+东森电影,http://3.bhzz.today:61231/777/zyzb.php?cid=J2U3bnoLRQwB&token=5804bda3ab472006bfedbe8865a99956
+东森电影,http://3.bhzz.today:61231/777/zyzb.php?cid=UwFX&token=5804bda3ab472006bfedbe8865a99956
+东森洋片,http://3.bhzz.today:61231/777/zyzb.php?cid=B0UXTlELQQANU1s=&token=5804bda3ab472006bfedbe8865a99956
+东森洋片,http://3.bhzz.today:61231/777/zyzb.php?cid=B1MAXlgWVgwDWg==&token=5804bda3ab472006bfedbe8865a99956
+东森洋片,http://3.bhzz.today:61231/777/zyzb.php?cid=J2U3bmABQBEBRls=&token=5804bda3ab472006bfedbe8865a99956
+东森洋片,http://3.bhzz.today:61231/777/zyzb.php?cid=UwFW&token=5804bda3ab472006bfedbe8865a99956
+东森戏剧,http://3.bhzz.today:61231/777/zyzb.php?cid=B0UXTlMWUggF&token=5804bda3ab472006bfedbe8865a99956
+东森戏剧,http://3.bhzz.today:61231/777/zyzb.php?cid=B1MAXEUFXgQ=&token=5804bda3ab472006bfedbe8865a99956
+东森戏剧,http://3.bhzz.today:61231/777/zyzb.php?cid=J2U3bm8u&token=5804bda3ab472006bfedbe8865a99956
+东森戏剧,http://3.bhzz.today:61231/777/zyzb.php?cid=UwFV&token=5804bda3ab472006bfedbe8865a99956
+三立戏剧台,http://3.bhzz.today:61231/777/zyzb.php?cid=VgY=&token=5804bda3ab472006bfedbe8865a99956
+三立戏剧台,http://3.bhzz.today:61231/777/zyzb.php?cid=MXQ3fEUFXgQ=&token=5804bda3ab472006bfedbe8865a99956
+三立戏剧台,http://3.bhzz.today:61231/777/zyzb.php?cid=EVQXXEUFXgQ7UFA=&token=5804bda3ab472006bfedbe8865a99956
+八大第一台,http://3.bhzz.today:61231/777/zyzb.php?cid=IFAHWVENQRYQ&token=5804bda3ab472006bfedbe8865a99956
+八大第一台,http://3.bhzz.today:61231/777/zyzb.php?cid=AFAHWVENQRYQ&token=5804bda3ab472006bfedbe8865a99956
+八大第一台,http://3.bhzz.today:61231/777/zyzb.php?cid=VgE=&token=5804bda3ab472006bfedbe8865a99956
+八大戏剧台,http://3.bhzz.today:61231/777/zyzb.php?cid=AFAHWVMWUggF&token=5804bda3ab472006bfedbe8865a99956
+八大戏剧台,http://3.bhzz.today:61231/777/zyzb.php?cid=IFAHWXMWUggF&token=5804bda3ab472006bfedbe8865a99956
+八大戏剧台,http://3.bhzz.today:61231/777/zyzb.php?cid=VgM=&token=5804bda3ab472006bfedbe8865a99956
+靖天戏剧台,http://3.bhzz.today:61231/777/zyzb.php?cid=BV4PXFIKRxMARlReAw==&token=5804bda3ab472006bfedbe8865a99956
+靖天戏剧台,http://3.bhzz.today:61231/777/zyzb.php?cid=BV4PXFIKRxMCW0dWC1Ff&token=5804bda3ab472006bfedbe8865a99956
+靖天映画台,http://3.bhzz.today:61231/777/zyzb.php?cid=BV4PXFIKRxMUXVZHF0RUFQ==&token=5804bda3ab472006bfedbe8865a99956
+靖天电影台,http://3.bhzz.today:61231/777/zyzb.php?cid=BV4PXFIKRxMJW0NaB0U=&token=5804bda3ab472006bfedbe8865a99956
+华艺MBC综合台,http://3.bhzz.today:61231/777/zyzb.php?cid=BkMCX1gKUhcQWVdQ&token=5804bda3ab472006bfedbe8865a99956
+华艺MBC综合台,http://3.bhzz.today:61231/777/zyzb.php?cid=UwFa&token=5804bda3ab472006bfedbe8865a99956
+壹电影,http://3.bhzz.today:61231/777/zyzb.php?cid=DFQbTEMSXgoSXVBA&token=5804bda3ab472006bfedbe8865a99956
+EYETV戏剧,http://3.bhzz.today:61231/777/zyzb.php?cid=B0gGTEEAQQQJVQ==&token=5804bda3ab472006bfedbe8865a99956
+ELTA影剧,http://3.bhzz.today:61231/777/zyzb.php?cid=B10XWVoLRQwBUEdSD1c=&token=5804bda3ab472006bfedbe8865a99956
+ELTA影剧,http://3.bhzz.today:61231/777/zyzb.php?cid=B10XWU4NXQIOQQ==&token=5804bda3ab472006bfedbe8865a99956
+ELTA影剧,http://3.bhzz.today:61231/777/zyzb.php?cid=J303eW4uZw==&token=5804bda3ab472006bfedbe8865a99956
+ELTA影剧,http://3.bhzz.today:61231/777/zyzb.php?cid=VwY=&token=5804bda3ab472006bfedbe8865a99956
+ELTA综合,http://3.bhzz.today:61231/777/zyzb.php?cid=B10XWUEFQQwBQEw=&token=5804bda3ab472006bfedbe8865a99956
+ELTA综合,http://3.bhzz.today:61231/777/zyzb.php?cid=J303eW0LXQIsUQ==&token=5804bda3ab472006bfedbe8865a99956
+采昌影剧台,http://3.bhzz.today:61231/777/zyzb.php?cid=UwBX&token=5804bda3ab472006bfedbe8865a99956
+采昌影剧台,http://3.bhzz.today:61231/777/zyzb.php?cid=NVQKS18NXgoSXVBANmE=&token=5804bda3ab472006bfedbe8865a99956
+采昌影剧台,http://3.bhzz.today:61231/777/zyzb.php?cid=AVAKW18FXQIJW0NaB0U=&token=5804bda3ab472006bfedbe8865a99956
+AXN頻道,http://3.bhzz.today:61231/777/zyzb.php?cid=I2ktcHMwZA==&token=5804bda3ab472006bfedbe8865a99956
+AXN頻道,http://3.bhzz.today:61231/777/zyzb.php?cid=UwFR&token=5804bda3ab472006bfedbe8865a99956
+AXN頻道,http://3.bhzz.today:61231/777/zyzb.php?cid=A0kNTEA=&token=5804bda3ab472006bfedbe8865a99956
+AXN頻道,http://3.bhzz.today:61231/777/zyzb.php?cid=I2ktcHMwZA==&token=5804bda3ab472006bfedbe8865a99956
+AXN頻道,http://3.bhzz.today:61231/777/zyzb.php?cid=UwFR&token=5804bda3ab472006bfedbe8865a99956
+华纳电影,http://3.bhzz.today:61231/777/zyzb.php?cid=FVARVlIWRxM=&token=5804bda3ab472006bfedbe8865a99956
+华纳电影,http://3.bhzz.today:61231/777/zyzb.php?cid=UwBa&token=5804bda3ab472006bfedbe8865a99956
+tVN,http://3.bhzz.today:61231/777/zyzb.php?cid=FkcNTEA=&token=5804bda3ab472006bfedbe8865a99956
+tVN,http://3.bhzz.today:61231/777/zyzb.php?cid=FkcNTEA=&token=5804bda3ab472006bfedbe8865a99956
+CinemaWorld,http://3.bhzz.today:61231/777/zyzb.php?cid=AVgNXVoFRAoWWFE=&token=5804bda3ab472006bfedbe8865a99956
+CINEMAX,http://3.bhzz.today:61231/777/zyzb.php?cid=AVgNXVoFSw==&token=5804bda3ab472006bfedbe8865a99956
+CINEMAX,http://3.bhzz.today:61231/777/zyzb.php?cid=UwFS&token=5804bda3ab472006bfedbe8865a99956
+HBO,http://3.bhzz.today:61231/777/zyzb.php?cid=KnMsbGA=&token=5804bda3ab472006bfedbe8865a99956
+HBOHD,http://3.bhzz.today:61231/777/zyzb.php?cid=KnMscHM=&token=5804bda3ab472006bfedbe8865a99956
+HBOHD,http://3.bhzz.today:61231/777/zyzb.php?cid=ClMM&token=5804bda3ab472006bfedbe8865a99956
+HBOHD,http://3.bhzz.today:61231/777/zyzb.php?cid=Wwc=&token=5804bda3ab472006bfedbe8865a99956
+HBO原创,http://3.bhzz.today:61231/777/zyzb.php?cid=KnMsa14DXQQQQUdW&token=5804bda3ab472006bfedbe8865a99956
+HBO原创,http://3.bhzz.today:61231/777/zyzb.php?cid=WwY=&token=5804bda3ab472006bfedbe8865a99956
+HBO原创,http://3.bhzz.today:61231/777/zyzb.php?cid=ClMMS14DXQQQQUdW&token=5804bda3ab472006bfedbe8865a99956
+HBO强档,http://3.bhzz.today:61231/777/zyzb.php?cid=ClMMUF4QQA==&token=5804bda3ab472006bfedbe8865a99956
+HBO强档,http://3.bhzz.today:61231/777/zyzb.php?cid=KnMscF4QQA==&token=5804bda3ab472006bfedbe8865a99956
+HBO强档,http://3.bhzz.today:61231/777/zyzb.php?cid=Wwk=&token=5804bda3ab472006bfedbe8865a99956
+HBO家庭,http://3.bhzz.today:61231/777/zyzb.php?cid=KnMsflYJWgkd&token=5804bda3ab472006bfedbe8865a99956
+HBO家庭,http://3.bhzz.today:61231/777/zyzb.php?cid=Wwg=&token=5804bda3ab472006bfedbe8865a99956
+私人影院,http://3.bhzz.today:61231/777/zyzb.php?cid=MWM6YQ==&token=5804bda3ab472006bfedbe8865a99956
+好莱坞电影,http://3.bhzz.today:61231/777/zyzb.php?cid=Cl4PVE4TXAoA&token=5804bda3ab472006bfedbe8865a99956
+好莱坞电影,http://3.bhzz.today:61231/777/zyzb.php?cid=Kl4PVE4TXAoAWVpFC1NC&token=5804bda3ab472006bfedbe8865a99956
+好莱坞电影,http://3.bhzz.today:61231/777/zyzb.php?cid=UwFT&token=5804bda3ab472006bfedbe8865a99956
+amc最爱电影,http://3.bhzz.today:61231/777/zyzb.php?cid=A1wAVVgSWgAX&token=5804bda3ab472006bfedbe8865a99956
+CatchPlay电影台,http://3.bhzz.today:61231/777/zyzb.php?cid=AVAATFQMQwkFTV1X&token=5804bda3ab472006bfedbe8865a99956
+CatchPlay电影台,http://3.bhzz.today:61231/777/zyzb.php?cid=IXA3e380fyQ9&token=5804bda3ab472006bfedbe8865a99956
+经典电影台,http://3.bhzz.today:61231/777/zyzb.php?cid=AV0CS0QNUAgLQlxWEQ==&token=5804bda3ab472006bfedbe8865a99956
+Thrill惊悚,http://3.bhzz.today:61231/777/zyzb.php?cid=UwNS&token=5804bda3ab472006bfedbe8865a99956
+YY⚛️纪实,#genre#
+幸福空间居家台,http://3.bhzz.today:61231/777/zyzb.php?cid=BUIXTg==&token=5804bda3ab472006bfedbe8865a99956
+BBC Earth,http://3.bhzz.today:61231/777/zyzb.php?cid=AFMAXVYWRw0=&token=5804bda3ab472006bfedbe8865a99956
+BBC Earth,http://3.bhzz.today:61231/777/zyzb.php?cid=IHMgfVYWRw0wYw==&token=5804bda3ab472006bfedbe8865a99956
+BBC Lifestyle,http://3.bhzz.today:61231/777/zyzb.php?cid=AFMAVF4CVhYQTVlW&token=5804bda3ab472006bfedbe8865a99956
+BBC Lifestyle,http://3.bhzz.today:61231/777/zyzb.php?cid=IHMgdF4CVhYQTVlWNmE=&token=5804bda3ab472006bfedbe8865a99956
+HISTORY2,http://3.bhzz.today:61231/777/zyzb.php?cid=KngwbHg2alcwYw==&token=5804bda3ab472006bfedbe8865a99956
+国家地理,http://3.bhzz.today:61231/777/zyzb.php?cid=UwNX&token=5804bda3ab472006bfedbe8865a99956
+国家地理野生,http://3.bhzz.today:61231/777/zyzb.php?cid=LFAXf1ILZAwIUH13&token=5804bda3ab472006bfedbe8865a99956
+动物星球,http://3.bhzz.today:61231/777/zyzb.php?cid=UwNV&token=5804bda3ab472006bfedbe8865a99956
+探索频道,http://3.bhzz.today:61231/777/zyzb.php?cid=JlgQW1gSVhcdd11SDFhUCg==&token=5804bda3ab472006bfedbe8865a99956
+探索频道,http://3.bhzz.today:61231/777/zyzb.php?cid=UwNU&token=5804bda3ab472006bfedbe8865a99956
+探索科学,http://3.bhzz.today:61231/777/zyzb.php?cid=BlgQW1gSVhcdR1ZaB1hSAw==&token=5804bda3ab472006bfedbe8865a99956
+探索科学,http://3.bhzz.today:61231/777/zyzb.php?cid=JlgQW1gSVhcdZ1ZaB1hSAw==&token=5804bda3ab472006bfedbe8865a99956
+探索科学,http://3.bhzz.today:61231/777/zyzb.php?cid=UwNa&token=5804bda3ab472006bfedbe8865a99956
+探索亚洲,http://3.bhzz.today:61231/777/zyzb.php?cid=BlgQW1gSVhcdVUZaAw==&token=5804bda3ab472006bfedbe8865a99956
+探索亚洲,http://3.bhzz.today:61231/777/zyzb.php?cid=JlgQW1gSVhcddUZaAw==&token=5804bda3ab472006bfedbe8865a99956
+探索亚洲,http://3.bhzz.today:61231/777/zyzb.php?cid=UwJT&token=5804bda3ab472006bfedbe8865a99956
+亚洲美食频道,http://3.bhzz.today:61231/777/zyzb.php?cid=A1cN&token=5804bda3ab472006bfedbe8865a99956
+美食星球,http://3.bhzz.today:61231/777/zyzb.php?cid=BF4MXEcIUgsBQEFE&token=5804bda3ab472006bfedbe8865a99956
+美食星球,http://3.bhzz.today:61231/777/zyzb.php?cid=L2I7aQ==&token=5804bda3ab472006bfedbe8865a99956
+亚洲旅游台,http://3.bhzz.today:61231/777/zyzb.php?cid=FkMCTlIIUhYNVVNbBg==&token=5804bda3ab472006bfedbe8865a99956
+亚洲旅游台,http://3.bhzz.today:61231/777/zyzb.php?cid=FkMCTlIIUhYNVQ==&token=5804bda3ab472006bfedbe8865a99956
+亚洲旅游台,http://3.bhzz.today:61231/777/zyzb.php?cid=A0IKWUMWUhMBWA==&token=5804bda3ab472006bfedbe8865a99956
+亚洲旅游台,http://3.bhzz.today:61231/777/zyzb.php?cid=UwJS&token=5804bda3ab472006bfedbe8865a99956
+亚洲旅游台,http://3.bhzz.today:61231/777/zyzb.php?cid=O2svYWM=&token=5804bda3ab472006bfedbe8865a99956
+EYETV旅游,http://3.bhzz.today:61231/777/zyzb.php?cid=B0gGTEEQQQQSUVk=&token=5804bda3ab472006bfedbe8865a99956
+EYETV旅游,http://3.bhzz.today:61231/777/zyzb.php?cid=J2gmbEUFRQAI&token=5804bda3ab472006bfedbe8865a99956
+ELTA生活旅游,http://3.bhzz.today:61231/777/zyzb.php?cid=B10XWVELXAENUUFBA0BUCg==&token=5804bda3ab472006bfedbe8865a99956
+YY⚛️少儿,#genre#
+靖天卡通台,http://3.bhzz.today:61231/777/zyzb.php?cid=BV4PXFIKRxMPXVFA&token=5804bda3ab472006bfedbe8865a99956
+靖天卡通台,http://3.bhzz.today:61231/777/zyzb.php?cid=BV4PXFIKRxMPXVFADls=&token=5804bda3ab472006bfedbe8865a99956
+靖天卡通台,http://3.bhzz.today:61231/777/zyzb.php?cid=VwQ=&token=5804bda3ab472006bfedbe8865a99956
+靖洋卡通台,http://3.bhzz.today:61231/777/zyzb.php?cid=DFgAXVUNXQIL&token=5804bda3ab472006bfedbe8865a99956
+靖洋卡通台,http://3.bhzz.today:61231/777/zyzb.php?cid=LFgAXXUNXQIL&token=5804bda3ab472006bfedbe8865a99956
+东森幼幼,http://3.bhzz.today:61231/777/zyzb.php?cid=B0UXTk4LSgo=&token=5804bda3ab472006bfedbe8865a99956
+东森幼幼,http://3.bhzz.today:61231/777/zyzb.php?cid=UwhS&token=5804bda3ab472006bfedbe8865a99956
+东森幼幼,http://3.bhzz.today:61231/777/zyzb.php?cid=J2U3bm4raio=&token=5804bda3ab472006bfedbe8865a99956
+MOMO亲子台,http://3.bhzz.today:61231/777/zyzb.php?cid=D14OV0cFQQAKQFZbC1pV&token=5804bda3ab472006bfedbe8865a99956
+MOMO亲子台,http://3.bhzz.today:61231/777/zyzb.php?cid=L34ud2Y+Zw==&token=5804bda3ab472006bfedbe8865a99956
+CN卡通频道,http://3.bhzz.today:61231/777/zyzb.php?cid=IV8gWUUQXAoK&token=5804bda3ab472006bfedbe8865a99956
+CN卡通频道,http://3.bhzz.today:61231/777/zyzb.php?cid=AV8AWUUQXAoK&token=5804bda3ab472006bfedbe8865a99956
+CN卡通频道,http://3.bhzz.today:61231/777/zyzb.php?cid=IX83bw==&token=5804bda3ab472006bfedbe8865a99956
+尼克儿童频道,http://3.bhzz.today:61231/777/zyzb.php?cid=DFgAU1IIXAEBW1s=&token=5804bda3ab472006bfedbe8865a99956
+尼克儿童频道,http://3.bhzz.today:61231/777/zyzb.php?cid=DFgAU1IIXAEBW1tfDw==&token=5804bda3ab472006bfedbe8865a99956
+Boomerang,http://3.bhzz.today:61231/777/zyzb.php?cid=IF4MVVIWUgsDYGI=&token=5804bda3ab472006bfedbe8865a99956
+NickJr儿童频道,http://3.bhzz.today:61231/777/zyzb.php?cid=DFgAU10W&token=5804bda3ab472006bfedbe8865a99956
+NickJr儿童频道,http://3.bhzz.today:61231/777/zyzb.php?cid=DFgAU10W&token=5804bda3ab472006bfedbe8865a99956
+BBC Cbeebies,http://3.bhzz.today:61231/777/zyzb.php?cid=AVMGXVUNVhY=&token=5804bda3ab472006bfedbe8865a99956
+BBC Cbeebies,http://3.bhzz.today:61231/777/zyzb.php?cid=IHMge1UBVgcNUUZnNQ==&token=5804bda3ab472006bfedbe8865a99956
+经典卡通台,http://3.bhzz.today:61231/777/zyzb.php?cid=AV0CS0QNUAYFRkFcDVg=&token=5804bda3ab472006bfedbe8865a99956
+MOMO台,http://3.bhzz.today:61231/777/zyzb.php?cid=D14OV1wNVxY=&token=5804bda3ab472006bfedbe8865a99956
+YY⚛️马来西亚,#genre#
+TV1,http://3.bhzz.today:61231/777/zyzb.php?cid=NmdS&token=5804bda3ab472006bfedbe8865a99956
+TV2,http://3.bhzz.today:61231/777/zyzb.php?cid=NmdR&token=5804bda3ab472006bfedbe8865a99956
+TV3,http://3.bhzz.today:61231/777/zyzb.php?cid=NmdQ&token=5804bda3ab472006bfedbe8865a99956
+DidikTV7,http://3.bhzz.today:61231/777/zyzb.php?cid=JlgHUVwwZVI=&token=5804bda3ab472006bfedbe8865a99956
+8TV 八度空间,http://3.bhzz.today:61231/777/zyzb.php?cid=WmU1&token=5804bda3ab472006bfedbe8865a99956
+8TV 八度空间,http://3.bhzz.today:61231/777/zyzb.php?cid=WmU1cHM=&token=5804bda3ab472006bfedbe8865a99956
+iQIYI爱奇艺,http://3.bhzz.today:61231/777/zyzb.php?cid=I0IXSlgNYiw9fX13&token=5804bda3ab472006bfedbe8865a99956
+TVB千禧经典台,http://3.bhzz.today:61231/777/zyzb.php?cid=Nmche1sFQBYNV3hq&token=5804bda3ab472006bfedbe8865a99956
+Astro AEC,http://3.bhzz.today:61231/777/zyzb.php?cid=I0IXSlgldiYscA==&token=5804bda3ab472006bfedbe8865a99956
+Astro AEC,http://3.bhzz.today:61231/777/zyzb.php?cid=I0IXSlgldiY=&token=5804bda3ab472006bfedbe8865a99956
+Astro AEC,http://3.bhzz.today:61231/777/zyzb.php?cid=I3Qg&token=5804bda3ab472006bfedbe8865a99956
+Astro QJ,http://3.bhzz.today:61231/777/zyzb.php?cid=I0IXSlg1RgQKflxSKnI=&token=5804bda3ab472006bfedbe8865a99956
+Astro QJ,http://3.bhzz.today:61231/777/zyzb.php?cid=M0QCVn0NUg==&token=5804bda3ab472006bfedbe8865a99956
+天映频道,http://3.bhzz.today:61231/777/zyzb.php?cid=IVQPXUQQWgQIeVpFC1NCLns=&token=5804bda3ab472006bfedbe8865a99956
+天映频道,http://3.bhzz.today:61231/777/zyzb.php?cid=IVQPXUQQWgQIeVpFC1NCJX4=&token=5804bda3ab472006bfedbe8865a99956
+天映经典,http://3.bhzz.today:61231/777/zyzb.php?cid=IVQPXUQQWgQId1lSEUVYBX1t&token=5804bda3ab472006bfedbe8865a99956
+天映经典,http://3.bhzz.today:61231/777/zyzb.php?cid=IVQPXUQQWgQId1lSEUVYBX1tcy8=&token=5804bda3ab472006bfedbe8865a99956
+TVB翡翠台（马来）,http://3.bhzz.today:61231/777/zyzb.php?cid=NmchUlYAVig9&token=5804bda3ab472006bfedbe8865a99956
+TVB翡翠台（马来）,http://3.bhzz.today:61231/777/zyzb.php?cid=NmchUlYAVig9d3s=&token=5804bda3ab472006bfedbe8865a99956
+AOD 311,http://3.bhzz.today:61231/777/zyzb.php?cid=I0IXSlglfCFXBQR7Jn56&token=5804bda3ab472006bfedbe8865a99956
+AOD 311,http://3.bhzz.today:61231/777/zyzb.php?cid=I0IXSlglfCFXBQR7JnV/&token=5804bda3ab472006bfedbe8865a99956
+中天亚洲,http://3.bhzz.today:61231/777/zyzb.php?cid=IWUqeUQNUi0geWw=&token=5804bda3ab472006bfedbe8865a99956
+TVB娱乐新闻台,http://3.bhzz.today:61231/777/zyzb.php?cid=NmchfXkhZDY=&token=5804bda3ab472006bfedbe8865a99956
+TVB星河频道,http://3.bhzz.today:61231/777/zyzb.php?cid=NmchYF4KVC0BfH4=&token=5804bda3ab472006bfedbe8865a99956
+TVB星河频道,http://3.bhzz.today:61231/777/zyzb.php?cid=NmchYF4KVC0Bd3s=&token=5804bda3ab472006bfedbe8865a99956
+TVBSAsia,http://3.bhzz.today:61231/777/zyzb.php?cid=Nmcha3YXWgQ=&token=5804bda3ab472006bfedbe8865a99956
+凤凰中文,http://3.bhzz.today:61231/777/zyzb.php?cid=MlkMXVkNSyYMXVtWEVN8Pw==&token=5804bda3ab472006bfedbe8865a99956
+凤凰资讯,http://3.bhzz.today:61231/777/zyzb.php?cid=MlkMXVkNSywKUlp+Ow==&token=5804bda3ab472006bfedbe8865a99956
+凤凰资讯,http://3.bhzz.today:61231/777/zyzb.php?cid=ElkMXVkNSwwKUlo=&token=5804bda3ab472006bfedbe8865a99956
+欢喜台,http://3.bhzz.today:61231/777/zyzb.php?cid=I0IXSlgsRgQsUVB3A195Ig==&token=5804bda3ab472006bfedbe8865a99956
+欢喜台,http://3.bhzz.today:61231/777/zyzb.php?cid=I0IXSlgsRgQsUVB3A195InN6&token=5804bda3ab472006bfedbe8865a99956
+CCTV-4,http://3.bhzz.today:61231/777/zyzb.php?cid=IXI3bgMpag==&token=5804bda3ab472006bfedbe8865a99956
+SukanRTM,http://3.bhzz.today:61231/777/zyzb.php?cid=MGUua0IPUgsscA==&token=5804bda3ab472006bfedbe8865a99956
+BeritaRTM,http://3.bhzz.today:61231/777/zyzb.php?cid=IFQRUUMFQREJ&token=5804bda3ab472006bfedbe8865a99956
+HEROES,http://3.bhzz.today:61231/777/zyzb.php?cid=KlQRV1IX&token=5804bda3ab472006bfedbe8865a99956
+Astro Ria,http://3.bhzz.today:61231/777/zyzb.php?cid=I0IXSlg2WgQscA==&token=5804bda3ab472006bfedbe8865a99956
+Astro Ria,http://3.bhzz.today:61231/777/zyzb.php?cid=I0IXSlg2WgQ=&token=5804bda3ab472006bfedbe8865a99956
+Astro Prima,http://3.bhzz.today:61231/777/zyzb.php?cid=I0IXSlg0QQwJVX13&token=5804bda3ab472006bfedbe8865a99956
+Astro Prima,http://3.bhzz.today:61231/777/zyzb.php?cid=I0IXSlg0QQwJVQ==&token=5804bda3ab472006bfedbe8865a99956
+Astro Oasis,http://3.bhzz.today:61231/777/zyzb.php?cid=I0IXSlgrUhYNR313&token=5804bda3ab472006bfedbe8865a99956
+Astro Warna,http://3.bhzz.today:61231/777/zyzb.php?cid=I0IXSlgzUhcKVX13&token=5804bda3ab472006bfedbe8865a99956
+Astro Warna,http://3.bhzz.today:61231/777/zyzb.php?cid=I0IXSlgzUhcKVQ==&token=5804bda3ab472006bfedbe8865a99956
+Astro Citra,http://3.bhzz.today:61231/777/zyzb.php?cid=I0IXSlgnWhEWVX13&token=5804bda3ab472006bfedbe8865a99956
+Astro Citra,http://3.bhzz.today:61231/777/zyzb.php?cid=I0IXSlgnWhEWVQ==&token=5804bda3ab472006bfedbe8865a99956
+Astro Rania,http://3.bhzz.today:61231/777/zyzb.php?cid=I0IXSlg2UgsNVX13&token=5804bda3ab472006bfedbe8865a99956
+Astro Aura,http://3.bhzz.today:61231/777/zyzb.php?cid=I0IXSlglRhcFfHE=&token=5804bda3ab472006bfedbe8865a99956
+TV Alhijrah,http://3.bhzz.today:61231/777/zyzb.php?cid=NmciVF8NWRcFXA==&token=5804bda3ab472006bfedbe8865a99956
+TV Okey,http://3.bhzz.today:61231/777/zyzb.php?cid=NmcsU1Id&token=5804bda3ab472006bfedbe8865a99956
+9TV,http://3.bhzz.today:61231/777/zyzb.php?cid=W2U1&token=5804bda3ab472006bfedbe8865a99956
+Vaanavil,http://3.bhzz.today:61231/777/zyzb.php?cid=I0IXSlgyUgQKVUNaDn51&token=5804bda3ab472006bfedbe8865a99956
+Adithya,http://3.bhzz.today:61231/777/zyzb.php?cid=I1UKTF8dUi0g&token=5804bda3ab472006bfedbe8865a99956
+KBSWorld,http://3.bhzz.today:61231/777/zyzb.php?cid=KXMwb1gWXwE=&token=5804bda3ab472006bfedbe8865a99956
+One,http://3.bhzz.today:61231/777/zyzb.php?cid=LV8GcHMnfQ==&token=5804bda3ab472006bfedbe8865a99956
+One,http://3.bhzz.today:61231/777/zyzb.php?cid=LV8GcHMpag==&token=5804bda3ab472006bfedbe8865a99956
+One,http://3.bhzz.today:61231/777/zyzb.php?cid=LV8GcHMvfDc=&token=5804bda3ab472006bfedbe8865a99956
+One,http://3.bhzz.today:61231/777/zyzb.php?cid=LX8mdVYIUhw=&token=5804bda3ab472006bfedbe8865a99956
+tvN,http://3.bhzz.today:61231/777/zyzb.php?cid=FmctcHM=&token=5804bda3ab472006bfedbe8865a99956
+tvN,http://3.bhzz.today:61231/777/zyzb.php?cid=KkQBTEEq&token=5804bda3ab472006bfedbe8865a99956
+NHK World Premium,http://3.bhzz.today:61231/777/zyzb.php?cid=LHkob1gWXwE0RlBeC0Nc&token=5804bda3ab472006bfedbe8865a99956
+Boo,http://3.bhzz.today:61231/777/zyzb.php?cid=IH4s&token=5804bda3ab472006bfedbe8865a99956
+HBO,http://3.bhzz.today:61231/777/zyzb.php?cid=KnMsfXk=&token=5804bda3ab472006bfedbe8865a99956
+HBO,http://3.bhzz.today:61231/777/zyzb.php?cid=KnMsdW4=&token=5804bda3ab472006bfedbe8865a99956
+HBO,http://3.bhzz.today:61231/777/zyzb.php?cid=ClMMS1A=&token=5804bda3ab472006bfedbe8865a99956
+Cinemax,http://3.bhzz.today:61231/777/zyzb.php?cid=IVgNXVoFSw==&token=5804bda3ab472006bfedbe8865a99956
+HBOFamily,http://3.bhzz.today:61231/777/zyzb.php?cid=KnMsflYJWgkdeWw=&token=5804bda3ab472006bfedbe8865a99956
+HBOFamily,http://3.bhzz.today:61231/777/zyzb.php?cid=ClMMXlYJWgkdR1I=&token=5804bda3ab472006bfedbe8865a99956
+HBOHits,http://3.bhzz.today:61231/777/zyzb.php?cid=KnMscF4QQCg9&token=5804bda3ab472006bfedbe8865a99956
+HBOHits,http://3.bhzz.today:61231/777/zyzb.php?cid=ClMMUF4QQBYD&token=5804bda3ab472006bfedbe8865a99956
+Awani,http://3.bhzz.today:61231/777/zyzb.php?cid=I0IXSlglRAQKXX13&token=5804bda3ab472006bfedbe8865a99956
+Bernama,http://3.bhzz.today:61231/777/zyzb.php?cid=IFQRVlYJUi0g&token=5804bda3ab472006bfedbe8865a99956
+CGTN,http://3.bhzz.today:61231/777/zyzb.php?cid=IXY3dn8g&token=5804bda3ab472006bfedbe8865a99956
+CGTN,http://3.bhzz.today:61231/777/zyzb.php?cid=CkUXSEReHEoIXUNWTFVWEl4aUw5US1dTUVYWRhddVmgLXwddT0peVhEM&token=5804bda3ab472006bfedbe8865a99956
+CNN,http://3.bhzz.today:61231/777/zyzb.php?cid=IX8tcHM=&token=5804bda3ab472006bfedbe8865a99956
+CNN,http://3.bhzz.today:61231/777/zyzb.php?cid=IX8t&token=5804bda3ab472006bfedbe8865a99956
+BBCWorldNews,http://3.bhzz.today:61231/777/zyzb.php?cid=IHMgb1gWXwEqUUJAKnI=&token=5804bda3ab472006bfedbe8865a99956
+BBCWorldNews,http://3.bhzz.today:61231/777/zyzb.php?cid=IHMgdlITQA==&token=5804bda3ab472006bfedbe8865a99956
+Aljazeera,http://3.bhzz.today:61231/777/zyzb.php?cid=I10JWU0BVhcFfHE=&token=5804bda3ab472006bfedbe8865a99956
+SkyNews,http://3.bhzz.today:61231/777/zyzb.php?cid=MVoadlITQC0g&token=5804bda3ab472006bfedbe8865a99956
+ChannelNewsAsia,http://3.bhzz.today:61231/777/zyzb.php?cid=IX8icHM=&token=5804bda3ab472006bfedbe8865a99956
+ChannelNewsAsia,http://3.bhzz.today:61231/777/zyzb.php?cid=CkUXSA1LHAFWUQRSEVhCCgdWQlZbSgUPDhNdUBddX0NMXwZMGFMEXVZRBwNXUwZUVgADAFwGUgJVXlxVXAVXAVRUAVpSS1oLAFFNbFcYXFVFDA==&token=5804bda3ab472006bfedbe8865a99956
+CNBC,http://3.bhzz.today:61231/777/zyzb.php?cid=IX8he38g&token=5804bda3ab472006bfedbe8865a99956
+Bloomberg TV,http://3.bhzz.today:61231/777/zyzb.php?cid=IF0MV1oGVhcDfHE=&token=5804bda3ab472006bfedbe8865a99956
+Love Nature,http://3.bhzz.today:61231/777/zyzb.php?cid=Ll4VXXkFRxAWUX13&token=5804bda3ab472006bfedbe8865a99956
+History,http://3.bhzz.today:61231/777/zyzb.php?cid=KlgQTFgWSg==&token=5804bda3ab472006bfedbe8865a99956
+Ceria,http://3.bhzz.today:61231/777/zyzb.php?cid=I0IXSlgnVhcNVX13&token=5804bda3ab472006bfedbe8865a99956
+Ceria,http://3.bhzz.today:61231/777/zyzb.php?cid=I0IXSlgnVhcNVXhGDg==&token=5804bda3ab472006bfedbe8865a99956
+CartoonNetwork,http://3.bhzz.today:61231/777/zyzb.php?cid=IVARTFgLXSsBQEJcEF15Ig==&token=5804bda3ab472006bfedbe8865a99956
+CartoonNetwork,http://3.bhzz.today:61231/777/zyzb.php?cid=IVARTFgLXSsBQEJcEF1yKA==&token=5804bda3ab472006bfedbe8865a99956
+CartoonNetwork,http://3.bhzz.today:61231/777/zyzb.php?cid=IVARTFgLXSsBQEJcEF18Pw==&token=5804bda3ab472006bfedbe8865a99956
+Nickelodeon,http://3.bhzz.today:61231/777/zyzb.php?cid=LFgAU1IIXAEBW1t7Jg==&token=5804bda3ab472006bfedbe8865a99956
+Nickelodeon,http://3.bhzz.today:61231/777/zyzb.php?cid=LFgAU1IIXAEBW1t7JnV/&token=5804bda3ab472006bfedbe8865a99956
+Nickelodeon,http://3.bhzz.today:61231/777/zyzb.php?cid=LFgAU1IIXAEBW1t7Jnto&token=5804bda3ab472006bfedbe8865a99956
+NickJr,http://3.bhzz.today:61231/777/zyzb.php?cid=LFgAU30RXQwLRn13&token=5804bda3ab472006bfedbe8865a99956
+NickJr,http://3.bhzz.today:61231/777/zyzb.php?cid=LFgAU30RXQwLRn13IXg=&token=5804bda3ab472006bfedbe8865a99956
+NickJr,http://3.bhzz.today:61231/777/zyzb.php?cid=LFgAU30RXQwLRn13L28=&token=5804bda3ab472006bfedbe8865a99956
+CBeebies,http://3.bhzz.today:61231/777/zyzb.php?cid=IXMGXVUNVhYscA==&token=5804bda3ab472006bfedbe8865a99956
+AXN,http://3.bhzz.today:61231/777/zyzb.php?cid=I2ktcHM=&token=5804bda3ab472006bfedbe8865a99956
+Hits,http://3.bhzz.today:61231/777/zyzb.php?cid=KlgXS38g&token=5804bda3ab472006bfedbe8865a99956
+TLC,http://3.bhzz.today:61231/777/zyzb.php?cid=Nn0gcHM=&token=5804bda3ab472006bfedbe8865a99956
+WarnerTV,http://3.bhzz.today:61231/777/zyzb.php?cid=NVARVlIWZzMpbQ==&token=5804bda3ab472006bfedbe8865a99956
+HGTV,http://3.bhzz.today:61231/777/zyzb.php?cid=KnY3bn8g&token=5804bda3ab472006bfedbe8865a99956
+Arena,http://3.bhzz.today:61231/777/zyzb.php?cid=I0IXSlglQQAKVX13&token=5804bda3ab472006bfedbe8865a99956
+SuperSport,http://3.bhzz.today:61231/777/zyzb.php?cid=I0IXSlg3RhUBRkZDDURFV3hw&token=5804bda3ab472006bfedbe8865a99956
+SuperSport2,http://3.bhzz.today:61231/777/zyzb.php?cid=I0IXSlg3RhUBRkZDDURFVHhw&token=5804bda3ab472006bfedbe8865a99956
+SuperSport3,http://3.bhzz.today:61231/777/zyzb.php?cid=I0IXSlg3RhUBRkZDDURFVXhw&token=5804bda3ab472006bfedbe8865a99956
+SuperSport4,http://3.bhzz.today:61231/777/zyzb.php?cid=I0IXSlg3RhUBRkZDDURFUnhw&token=5804bda3ab472006bfedbe8865a99956
+SPOTV,http://3.bhzz.today:61231/777/zyzb.php?cid=MWEsbGE=&token=5804bda3ab472006bfedbe8865a99956
+Eurosport,http://3.bhzz.today:61231/777/zyzb.php?cid=J0QRV2QUXBcQfHE=&token=5804bda3ab472006bfedbe8865a99956
+YY⚛️新加坡,#genre#
+Mediacorp Suria,http://3.bhzz.today:61231/777/zyzb.php?cid=MUQRUVYsdw==&token=5804bda3ab472006bfedbe8865a99956
+Mediacorp-5,http://3.bhzz.today:61231/777/zyzb.php?cid=IVkCVlkBX1AscA==&token=5804bda3ab472006bfedbe8865a99956
+Mediacorp-8,http://3.bhzz.today:61231/777/zyzb.php?cid=IVkCVlkBX10scA==&token=5804bda3ab472006bfedbe8865a99956
+Mediacorp-U,http://3.bhzz.today:61231/777/zyzb.php?cid=IVkCVlkBXzAscA==&token=5804bda3ab472006bfedbe8865a99956
+TVB翡翠台（新加坡）,http://3.bhzz.today:61231/777/zyzb.php?cid=FkcBUlYAVhYD&token=5804bda3ab472006bfedbe8865a99956
+TVB星河频道,http://3.bhzz.today:61231/777/zyzb.php?cid=FkcBQF4KVA0BR1I=&token=5804bda3ab472006bfedbe8865a99956
+天映频道,http://3.bhzz.today:61231/777/zyzb.php?cid=AVQPXUQQWgQIWVpFC1NCFVc=&token=5804bda3ab472006bfedbe8865a99956
+娱家台,http://3.bhzz.today:61231/777/zyzb.php?cid=KkQBbmEgQQQJVQ==&token=5804bda3ab472006bfedbe8865a99956
+都会台,http://3.bhzz.today:61231/777/zyzb.php?cid=KkQBfXQNRxw=&token=5804bda3ab472006bfedbe8865a99956
+AstroSensasi,http://3.bhzz.today:61231/777/zyzb.php?cid=MVQNS1YXWg==&token=5804bda3ab472006bfedbe8865a99956
+AstroSensasi,http://3.bhzz.today:61231/777/zyzb.php?cid=MFgC&token=5804bda3ab472006bfedbe8865a99956
+AstroWarna,http://3.bhzz.today:61231/777/zyzb.php?cid=I0IXSlgzUhcKVX13MXE=&token=5804bda3ab472006bfedbe8865a99956
+Mediacorp Vasantham,http://3.bhzz.today:61231/777/zyzb.php?cid=NFAQWVkQWwQJfHE=&token=5804bda3ab472006bfedbe8865a99956
+RockAction,http://3.bhzz.today:61231/777/zyzb.php?cid=MF4AU3YHRwwLWg==&token=5804bda3ab472006bfedbe8865a99956
+RockEntertainment,http://3.bhzz.today:61231/777/zyzb.php?cid=MF4AU3IKRwAWQFRaDFtUCEQ=&token=5804bda3ab472006bfedbe8865a99956
+HBO,http://3.bhzz.today:61231/777/zyzb.php?cid=ClMMS1A=&token=5804bda3ab472006bfedbe8865a99956
+HBOFamily,http://3.bhzz.today:61231/777/zyzb.php?cid=ClMMXlYJWgkdR1I=&token=5804bda3ab472006bfedbe8865a99956
+HBOHits,http://3.bhzz.today:61231/777/zyzb.php?cid=ClMMUF4QQBYD&token=5804bda3ab472006bfedbe8865a99956
+HBOSignature,http://3.bhzz.today:61231/777/zyzb.php?cid=ClMMS14DXQQQQUdWEVE=&token=5804bda3ab472006bfedbe8865a99956
+Cinemax,http://3.bhzz.today:61231/777/zyzb.php?cid=AVgNXVoFSxYD&token=5804bda3ab472006bfedbe8865a99956
+Gem,http://3.bhzz.today:61231/777/zyzb.php?cid=JVQO&token=5804bda3ab472006bfedbe8865a99956
+GlobalTrekker,http://3.bhzz.today:61231/777/zyzb.php?cid=JV0MWlYIZxcBX15WEA==&token=5804bda3ab472006bfedbe8865a99956
+Travelxp,http://3.bhzz.today:61231/777/zyzb.php?cid=NkMCTlIISxU=&token=5804bda3ab472006bfedbe8865a99956
+Animax,http://3.bhzz.today:61231/777/zyzb.php?cid=I18KVVYc&token=5804bda3ab472006bfedbe8865a99956
+MolaSport,http://3.bhzz.today:61231/777/zyzb.php?cid=L14PWWQUXBcQ&token=5804bda3ab472006bfedbe8865a99956
+HubSports1,http://3.bhzz.today:61231/777/zyzb.php?cid=KkQBa0cLQREXBQ==&token=5804bda3ab472006bfedbe8865a99956
+HubSports2,http://3.bhzz.today:61231/777/zyzb.php?cid=KkQBa0cLQREXBg==&token=5804bda3ab472006bfedbe8865a99956
+HubSports3,http://3.bhzz.today:61231/777/zyzb.php?cid=KkQBa0cLQREXBw==&token=5804bda3ab472006bfedbe8865a99956
+HubSports4,http://3.bhzz.today:61231/777/zyzb.php?cid=KkQBa0cLQREXAA==&token=5804bda3ab472006bfedbe8865a99956
+HubSports5,http://3.bhzz.today:61231/777/zyzb.php?cid=KkQBa0cLQREXAQ==&token=5804bda3ab472006bfedbe8865a99956
+HubPremier1,http://3.bhzz.today:61231/777/zyzb.php?cid=KkQBaEUBXgwBRgQ=&token=5804bda3ab472006bfedbe8865a99956
+HubPremier2,http://3.bhzz.today:61231/777/zyzb.php?cid=KkQBaEUBXgwBRgc=&token=5804bda3ab472006bfedbe8865a99956
+HubPremier3,http://3.bhzz.today:61231/777/zyzb.php?cid=KkQBaEUBXgwBRgY=&token=5804bda3ab472006bfedbe8865a99956
+HubPremier4,http://3.bhzz.today:61231/777/zyzb.php?cid=KkQBaEUBXgwBRgE=&token=5804bda3ab472006bfedbe8865a99956
+HubPremier5,http://3.bhzz.today:61231/777/zyzb.php?cid=KkQBaEUBXgwBRgA=&token=5804bda3ab472006bfedbe8865a99956
+HubPremier6,http://3.bhzz.today:61231/777/zyzb.php?cid=KkQBaEUBXgwBRgM=&token=5804bda3ab472006bfedbe8865a99956
+HubPremier7,http://3.bhzz.today:61231/777/zyzb.php?cid=KkQBaEUBXgwBRgI=&token=5804bda3ab472006bfedbe8865a99956
+YY⚛️xxxx,#genre#
+松视1,http://3.bhzz.today:61231/777/zyzb.php?cid=EV4NS1IBAg==&token=5804bda3ab472006bfedbe8865a99956
+松视2,http://3.bhzz.today:61231/777/zyzb.php?cid=EV4NS1IBAQ==&token=5804bda3ab472006bfedbe8865a99956
+松视3,http://3.bhzz.today:61231/777/zyzb.php?cid=MV4Na1IBAA0A&token=5804bda3ab472006bfedbe8865a99956
+彩虹e,http://3.bhzz.today:61231/777/zyzb.php?cid=MFAKVnULRCAMUA==&token=5804bda3ab472006bfedbe8865a99956
+K频道,http://3.bhzz.today:61231/777/zyzb.php?cid=MFAKVnULRC4=&token=5804bda3ab472006bfedbe8865a99956
+彩虹电影台,http://3.bhzz.today:61231/777/zyzb.php?cid=MFAKVlULRAgLQlxW&token=5804bda3ab472006bfedbe8865a99956
+潘朵啦玩美台,http://3.bhzz.today:61231/777/zyzb.php?cid=MlANXFgWUjIFWlhWCw==&token=5804bda3ab472006bfedbe8865a99956
+惊艳成人电影,http://3.bhzz.today:61231/777/zyzb.php?cid=I1wCQl4KVAYMVVtdB1o=&token=5804bda3ab472006bfedbe8865a99956
+香蕉台,http://3.bhzz.today:61231/777/zyzb.php?cid=IFANWVkFUA0FWltWDg==&token=5804bda3ab472006bfedbe8865a99956
+Happy,http://3.bhzz.today:61231/777/zyzb.php?cid=KlATSE4sdw==&token=5804bda3ab472006bfedbe8865a99956
+HOT,http://3.bhzz.today:61231/777/zyzb.php?cid=Kn43&token=5804bda3ab472006bfedbe8865a99956
+Hi-Play,http://3.bhzz.today:61231/777/zyzb.php?cid=KlhDaFsFSg==&token=5804bda3ab472006bfedbe8865a99956
+JStar極限台电影频道,http://3.bhzz.today:61231/777/zyzb.php?cid=KGIXWUUpXBMNUUY=&token=5804bda3ab472006bfedbe8865a99956
+Playboy TV,http://3.bhzz.today:61231/777/zyzb.php?cid=Ml0CQVULSjEy&token=5804bda3ab472006bfedbe8865a99956
+アイドル専門チャンネルＰｉｇｏｏ,http://3.bhzz.today:61231/777/zyzb.php?cid=K1UMVEQUVgYNVVlHG1VZB15aVQ1pDQEMDi59&token=5804bda3ab472006bfedbe8865a99956
+Babes TV,http://3.bhzz.today:61231/777/zyzb.php?cid=IFABXUQwZQ==&token=5804bda3ab472006bfedbe8865a99956
+Red Lips,http://3.bhzz.today:61231/777/zyzb.php?cid=MFQHdF4UQA==&token=5804bda3ab472006bfedbe8865a99956
+RusskayaNoch,http://3.bhzz.today:61231/777/zyzb.php?cid=MEQQS1wFSgQqW1Zb&token=5804bda3ab472006bfedbe8865a99956
+BrazzersTV,http://3.bhzz.today:61231/777/zyzb.php?cid=IEMCQk0BQRYwYnBGEFlBAw==&token=5804bda3ab472006bfedbe8865a99956
+BrazzersTV HD,http://3.bhzz.today:61231/777/zyzb.php?cid=IEMCQk0BQRYwYgc=&token=5804bda3ab472006bfedbe8865a99956
+HustlerTV,http://3.bhzz.today:61231/777/zyzb.php?cid=KkQQTFsBQQ==&token=5804bda3ab472006bfedbe8865a99956
+HustlerTV,http://3.bhzz.today:61231/777/zyzb.php?cid=CkQQTFsBQRES&token=5804bda3ab472006bfedbe8865a99956
+Penthouse Gold,http://3.bhzz.today:61231/777/zyzb.php?cid=MlQNTF8LRhYBc1pfBg==&token=5804bda3ab472006bfedbe8865a99956
+Penthouse Gold,http://3.bhzz.today:61231/777/zyzb.php?cid=ElQNTF8LRhYB&token=5804bda3ab472006bfedbe8865a99956
+Penthouse Reality,http://3.bhzz.today:61231/777/zyzb.php?cid=MlQNTF8LRhYBZUBaAV1YA0M=&token=5804bda3ab472006bfedbe8865a99956
+OX-AX,http://3.bhzz.today:61231/777/zyzb.php?cid=LVkCUA==&token=5804bda3ab472006bfedbe8865a99956
+Vivid Red,http://3.bhzz.today:61231/777/zyzb.php?cid=NFgVUVM2VgE=&token=5804bda3ab472006bfedbe8865a99956
+Eroxxx,http://3.bhzz.today:61231/777/zyzb.php?cid=J0MMQE8c&token=5804bda3ab472006bfedbe8865a99956
+Extasy,http://3.bhzz.today:61231/777/zyzb.php?cid=J0kXWUQd&token=5804bda3ab472006bfedbe8865a99956
+ExtasyHD,http://3.bhzz.today:61231/777/zyzb.php?cid=J0kXWUQdeyE=&token=5804bda3ab472006bfedbe8865a99956
+PrivateTV,http://3.bhzz.today:61231/777/zyzb.php?cid=MkMKTlYQVjEy&token=5804bda3ab472006bfedbe8865a99956
+Red Light,http://3.bhzz.today:61231/777/zyzb.php?cid=MFQHVF4DWxE=&token=5804bda3ab472006bfedbe8865a99956
+CineMan私密频道,http://3.bhzz.today:61231/777/zyzb.php?cid=IVgNXXoFXYLDtdCc5N+T99m1ow==&token=5804bda3ab472006bfedbe8865a99956
+CineMan私密频道2,http://3.bhzz.today:61231/777/zyzb.php?cid=IVgNXXoFXYLDtdCc5N+T99m1o1M=&token=5804bda3ab472006bfedbe8865a99956
+WAAYH,http://3.bhzz.today:61231/777/zyzb.php?cid=MVkCVEIK&token=5804bda3ab472006bfedbe8865a99956
+DorcelTV,http://3.bhzz.today:61231/777/zyzb.php?cid=Jl4RW1IIZzM=&token=5804bda3ab472006bfedbe8865a99956
+FapTV 2,http://3.bhzz.today:61231/777/zyzb.php?cid=JFATbGFW&token=5804bda3ab472006bfedbe8865a99956
+FapTV 3,http://3.bhzz.today:61231/777/zyzb.php?cid=JFATbGFX&token=5804bda3ab472006bfedbe8865a99956
+FapTV 4,http://3.bhzz.today:61231/777/zyzb.php?cid=JFATbGFQ&token=5804bda3ab472006bfedbe8865a99956
+FapTV Parody,http://3.bhzz.today:61231/777/zyzb.php?cid=JFATbGE0UhcLUEw=&token=5804bda3ab472006bfedbe8865a99956
+FapTV,http://3.bhzz.today:61231/777/zyzb.php?cid=&token=5804bda3ab472006bfedbe8865a99956
+Compilation,http://3.bhzz.today:61231/777/zyzb.php?cid=JFATbGEnXAgUXVlSFl9eCA==&token=5804bda3ab472006bfedbe8865a99956
+FapTV Anal,http://3.bhzz.today:61231/777/zyzb.php?cid=JFATbGElXQQI&token=5804bda3ab472006bfedbe8865a99956
+FapTV Teens,http://3.bhzz.today:61231/777/zyzb.php?cid=JFATbGEwVgAKRw==&token=5804bda3ab472006bfedbe8865a99956
+FapTV Lesbian,http://3.bhzz.today:61231/777/zyzb.php?cid=JFATbGEoVhYGXVRd&token=5804bda3ab472006bfedbe8865a99956
+FapTV BBW,http://3.bhzz.today:61231/777/zyzb.php?cid=JFATbGEmcTI=&token=5804bda3ab472006bfedbe8865a99956
